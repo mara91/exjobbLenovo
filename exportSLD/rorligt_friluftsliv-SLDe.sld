@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by SLD Editor 0.7.4 -->
+<sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
+  <sld:NamedLayer>
+    <sld:Name>Rörligt friluftsliv, 4:2</sld:Name>
+    <sld:UserStyle>
+      <sld:Name>Rörligt friluftsliv, 4:2</sld:Name>
+      <sld:FeatureTypeStyle>
+        <sld:Name>name</sld:Name>
+        <sld:Rule>
+          <sld:Name>Single symbol</sld:Name>
+          <sld:PolygonSymbolizer>
+            <sld:Fill>
+              <sld:CssParameter name="fill">#9ED7C2</sld:CssParameter>
+            </sld:Fill>
+          </sld:PolygonSymbolizer>
+          <sld:PolygonSymbolizer/>
+          <sld:LineSymbolizer>
+            <sld:Stroke>
+              <sld:GraphicStroke>
+                <sld:Graphic>
+                  <sld:Mark>
+                    <sld:WellKnownName>circle</sld:WellKnownName>
+                    <sld:Fill>
+                      <sld:CssParameter name="fill">#00734C</sld:CssParameter>
+                    </sld:Fill>
+                    <sld:Stroke/>
+                  </sld:Mark>
+                  <sld:Size>6.0</sld:Size>
+                </sld:Graphic>
+              </sld:GraphicStroke>
+            </sld:Stroke>
+          </sld:LineSymbolizer>
+        </sld:Rule>
+      </sld:FeatureTypeStyle>
+    </sld:UserStyle>
+  </sld:NamedLayer>
+</sld:StyledLayerDescriptor>
+
