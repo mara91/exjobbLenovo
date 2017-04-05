@@ -1,50 +1,53 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.5">
+<qgis projectname="" version="2.18.4">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170310100251432" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\raa_fornminnen\FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="al_riks20170324143323804" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\bs_riks.shp" name="Bebyggelsesymboler">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Vagar20170310100322048" name="Vagar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\trafikverket_riksintressen\JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="min_bestallning20170314094847213" name="min_bestallning">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\ml_riks.shp" name="Begransningslinjer_for_markslag">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Text__punkter20170310100318608" name="Text__punkter">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" name="Riksintresse_Naturvard__MB_36">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\vl_riks.shp" name="Vagar">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" name="RAA_Riksintresse_Kulturmiljovard">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Text__punkter20170310100318608" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\tx_riks.shp" name="Text__punkter">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" name="LST_Riksintresse_Rorligt_friluftsliv__42">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RI_naturvard_MB_3kap6.shp" name="Riksintresse_Naturvard__MB_36">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" name="LST_Riksintresse_Hogexploaterad_kust__44">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_Riksintresse_Kulturmiljovard">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Kraftledningar20170310100258072" name="Kraftledningar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_Riksintresse_Rorligt_friluftsliv__42">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Jordart__grundlager20170310100255192" name="Jordart__grundlager">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_Riksintresse_Hogexploaterad_kust__44">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" name="Jarnvag___befintlig_station_for_resandeutbyte">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Kraftledningar20170310100258072" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\kl_riks.shp" name="Kraftledningar">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170310100251432" name="FMIS_Sverige_SWEREF_point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Jordart__grundlager20170310100255192" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\sgu_jordartskarta1m\jordarter_1miljon.shp" name="Jordart__grundlager">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" name="Begransningslinjer_for_markslag">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_tk\mb_riks.shp" name="Bebyggd_mark">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" name="Bebyggelsesymboler">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" name="Bebyggd_mark">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -52,10 +55,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>348241.43883244029711932</xmin>
-      <ymin>6128027.72038976661860943</ymin>
-      <xmax>430619.29787997237872332</xmax>
-      <ymax>6213308.13948671333491802</ymax>
+      <xmin>365040.08048257487826049</xmin>
+      <ymin>6163370.32041846308857203</ymin>
+      <xmax>375337.31286351638846099</xmax>
+      <ymax>6174030.3728055814281106</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -89,38 +92,24 @@
       <item>Text__punkter20170310100318608</item>
       <item>Vagar20170310100322048</item>
       <item>RAA_Riksintresse_Kulturmiljovard20170313135836866</item>
+      <item>min_bestallning20170314094847213</item>
       <item>al_riks20170324143323804</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="FMIS_Sverige_SWEREF_point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="al_riks" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170310100251432" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Bebyggelsesymboler" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Begransningslinjer_for_markslag20170310100249408" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="al_riks" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="al_riks20170324143323804" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Vagar" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Vagar20170310100322048" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="min_bestallning" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="min_bestallning20170314094847213" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Text__punkter" showFeatureCount="0">
@@ -148,14 +137,34 @@
         <legendlayerfile isInOverview="0" layerid="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Kraftledningar" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Kraftledningar" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Kraftledningar20170310100258072" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Jordart__grundlager" showFeatureCount="0">
       <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Jordart__grundlager20170310100255192" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="FMIS_Sverige_SWEREF_point" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170310100251432" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Begransningslinjer_for_markslag20170310100249408" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Bebyggelsesymboler" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Bebyggd_mark" showFeatureCount="0">
@@ -173,7 +182,7 @@
         <ymax>6173009.29348633531481028</ymax>
       </extent>
       <id>Bebyggd_mark20170310100243985</id>
-      <datasource>./ut/lm_tk/mb_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Bebyggd_mark/Bebyggd_mark.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -191,6 +200,7 @@
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -577,7 +587,6 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -587,7 +596,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6172990.48212500009685755</ymax>
       </extent>
       <id>Bebyggelsesymboler20170310100246160</id>
-      <datasource>./ut/lm_vk/bs_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Bebyggelsesymboler/Bebyggelsesymboler.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -605,6 +614,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -1623,7 +1633,6 @@ def my_form_open(dialog, layer, feature):
         <default field="SRIKT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -1633,7 +1642,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6173030.22102980315685272</ymax>
       </extent>
       <id>Begransningslinjer_for_markslag20170310100249408</id>
-      <datasource>./ut/lm_vk/ml_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Begransningslinjer_for_markslag/Begransningslinjer_for_markslag.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1651,6 +1660,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -3190,11 +3200,10 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>FMIS_Sverige_SWEREF_point20170310100251432</id>
-      <datasource>./ut/raa_fornminnen/FMIS_Sverige_SWEREF_point.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/FMIS_Sverige_SWEREF_point/FMIS_Sverige_SWEREF_point.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3212,6 +3221,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -3719,11 +3729,10 @@ def my_form_open(dialog, layer, feature):
         <default field="MATMETOD" expression=""/>
         <default field="ANSV_ORG" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Jarnvag___befintlig_station_for_resandeutbyte20170310100253353</id>
-      <datasource>./ut/trafikverket_riksintressen/JarnvagStationer.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Jarnvag___befintlig_station_for_resandeutbyte/Jarnvag___befintlig_station_for_resandeutbyte.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -3741,6 +3750,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -4173,11 +4183,10 @@ def my_form_open(dialog, layer, feature):
         <default field="SPECNAMN" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Jordart__grundlager20170310100255192</id>
-      <datasource>./ut/sgu_jordartskarta1m/jordarter_1miljon.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Jordart__grundlager/Jordart__grundlager.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4195,6 +4204,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -4709,7 +4719,6 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="SHAPE_AREA" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -4719,7 +4728,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6172941.97272534854710102</ymax>
       </extent>
       <id>Kraftledningar20170310100258072</id>
-      <datasource>./ut/lm_vk/kl_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Kraftledningar/Kraftledningar.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -4737,6 +4746,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -5221,7 +5231,6 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -5231,7 +5240,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6173248.98759534955024719</ymax>
       </extent>
       <id>LST_Riksintresse_Hogexploaterad_kust__4420170310100303529</id>
-      <datasource>./ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/LST_Riksintresse_Hogexploaterad_kust__44/LST_Riksintresse_Hogexploaterad_kust__44.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5249,6 +5258,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -5648,7 +5658,6 @@ def my_form_open(dialog, layer, feature):
         <default field="_MATCHED_R" expression=""/>
         <default field="AREA_HA" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -5658,7 +5667,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6160432.91948643513023853</ymax>
       </extent>
       <id>LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241</id>
-      <datasource>./ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/LST_Riksintresse_Rorligt_friluftsliv__42/LST_Riksintresse_Rorligt_friluftsliv__42.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -5676,6 +5685,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -6063,11 +6073,10 @@ def my_form_open(dialog, layer, feature):
         <default field="OBJEKTLANK" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>RAA_Riksintresse_Kulturmiljovard20170313135836866</id>
-      <datasource>./ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/RAA_Riksintresse_Kulturmiljovard/RAA_Riksintresse_Kulturmiljovard.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6085,6 +6094,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -6453,7 +6463,6 @@ def my_form_open(dialog, layer, feature):
         <default field="OBJEKTLANK" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <extent>
@@ -6463,7 +6472,7 @@ def my_form_open(dialog, layer, feature):
         <ymax>6166013.25549999997019768</ymax>
       </extent>
       <id>Riksintresse_Naturvard__MB_3620170310100314512</id>
-      <datasource>./ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Riksintresse_Naturvard__MB_36/Riksintresse_Naturvard__MB_36.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6481,6 +6490,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -6873,11 +6883,10 @@ def my_form_open(dialog, layer, feature):
         <default field="_MATCHED_R" expression=""/>
         <default field="AREA_HA" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Text__punkter20170310100318608</id>
-      <datasource>./ut/lm_vk/tx_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Text__punkter/Text__punkter.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -6895,6 +6904,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression>COALESCE( "TSPARR", '&lt;NULL>' )</previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -6915,9 +6925,6 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="TEXTTYP">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SK1M_SPECI">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="KATEGORI">
@@ -7225,14 +7232,13 @@ def my_form_open(dialog, layer, feature):
         <alias field="THEMES" index="2" name=""/>
         <alias field="TK_UPDATE" index="3" name=""/>
         <alias field="TEXTTYP" index="4" name=""/>
-        <alias field="SK1M_SPECI" index="5" name=""/>
-        <alias field="KATEGORI" index="6" name=""/>
-        <alias field="TJUST" index="7" name=""/>
-        <alias field="TEXT" index="8" name=""/>
-        <alias field="SERIAL" index="9" name=""/>
-        <alias field="OUTPUT" index="10" name=""/>
-        <alias field="TRIKT" index="11" name=""/>
-        <alias field="_MATCHED_R" index="12" name=""/>
+        <alias field="KATEGORI" index="5" name=""/>
+        <alias field="TJUST" index="6" name=""/>
+        <alias field="TEXT" index="7" name=""/>
+        <alias field="SERIAL" index="8" name=""/>
+        <alias field="OUTPUT" index="9" name=""/>
+        <alias field="TRIKT" index="10" name=""/>
+        <alias field="_MATCHED_R" index="11" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -7286,7 +7292,6 @@ def my_form_open(dialog, layer, feature):
         <default field="THEMES" expression=""/>
         <default field="TK_UPDATE" expression=""/>
         <default field="TEXTTYP" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
         <default field="KATEGORI" expression=""/>
         <default field="TJUST" expression=""/>
         <default field="TEXT" expression=""/>
@@ -7295,11 +7300,10 @@ def my_form_open(dialog, layer, feature):
         <default field="TRIKT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression>COALESCE( "TSPARR", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Vagar20170310100322048</id>
-      <datasource>./ut/lm_vk/vl_riks.shp</datasource>
+      <datasource>./GeoCat_Bridge_SLD/Vagar/Vagar.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -7317,6 +7321,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -8962,15 +8967,8 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <extent>
-        <xmin>363296.42104023875435814</xmin>
-        <ymin>6152727.56068754568696022</ymin>
-        <xmax>386070.26933816407108679</xmax>
-        <ymax>6173307.98219356685876846</ymax>
-      </extent>
       <id>al_riks20170324143323804</id>
       <datasource>./ut/lm_vk/al_riks.shp</datasource>
       <keywordList>
@@ -8990,6 +8988,7 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
@@ -9042,7 +9041,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="3.99996"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9061,7 +9060,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="3"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9080,7 +9079,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="2"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9099,7 +9098,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="1"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9118,7 +9117,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="0.5"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9137,7 +9136,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="0.5"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9156,7 +9155,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
-              <prop k="line_style" v="solid"/>
+              <prop k="line_style" v="???"/>
               <prop k="line_width" v="0.5"/>
               <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
@@ -9340,7 +9339,6 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -9366,7 +9364,7 @@ def my_form_open(dialog, layer, feature):
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
+      <annotationform></annotationform>
       <aliases>
         <alias field="KKOD" index="0" name=""/>
         <alias field="THEMES" index="1" name=""/>
@@ -9393,10 +9391,10 @@ def my_form_open(dialog, layer, feature):
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform>.</editform>
+      <editform></editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitfilepath></editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS formulär kan ha en Pythonfunktion som anropas när formuläret öppnas.
@@ -9429,7 +9427,324 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>min_bestallning20170314094847213</id>
+      <datasource>./ut/min_bestallning.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>min_bestallning</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=33 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>971</srsid>
+          <srid>3006</srid>
+          <authid>EPSG:3006</authid>
+          <description>SWEREF99 TM</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>GRS80</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="System">ogr</provider>
       <previewExpression></previewExpression>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="produkt">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="format">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="koordsys">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="datum">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="tid">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="201,242,208,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="MS Shell Dlg 2"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="8.25"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Normal"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>tid</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Etikett"/>
+        <family fieldname="" name="MS Shell Dlg 2"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="produkt" index="0" name=""/>
+        <alias field="format" index="1" name=""/>
+        <alias field="koordsys" index="2" name=""/>
+        <alias field="datum" index="3" name=""/>
+        <alias field="tid" index="4" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="473825280">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="produkt"/>
+          <column width="-1" hidden="0" type="field" name="format"/>
+          <column width="-1" hidden="0" type="field" name="koordsys"/>
+          <column width="-1" hidden="0" type="field" name="datum"/>
+          <column width="-1" hidden="0" type="field" name="tid"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS formulär kan ha en Pythonfunktion som anropas när formuläret öppnas.
+
+Använd denna funktion för att lägga till extra logik till dina formulär.
+
+Skriv in namnet på funktionen i fältet "Python Init function".
+Ett exempel nedan:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="produkt" expression=""/>
+        <default field="format" expression=""/>
+        <default field="koordsys" expression=""/>
+        <default field="datum" expression=""/>
+        <default field="tid" expression=""/>
+      </defaults>
     </maplayer>
   </projectlayers>
   <properties>
