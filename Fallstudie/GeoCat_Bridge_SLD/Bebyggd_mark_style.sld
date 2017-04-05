@@ -12,8 +12,12 @@
       <FeatureTypeStyle>
         <Rule>
           <Name>Sluten bebyggelse</Name>
-          <Title>Sluten bebyggelse</Title><ogc:Filter><ogc:PropertyIsEqualTo><ogc:PropertyName>KKOD</ogc:PropertyName> <ogc:Literal><![CDATA[12]]></ogc:Literal> </ogc:PropertyIsEqualTo></ogc:Filter><PolygonSymbolizer><Fill><CssParameter
-                name="fill">#CA00DB</CssParameter></Fill></PolygonSymbolizer></Rule>
+          <Title>Sluten bebyggelse</Title><ogc:Filter>
+		  <ogc:PropertyIsEqualTo><ogc:PropertyName>KKOD</ogc:PropertyName> 
+		  <ogc:Literal><![CDATA[12]]></ogc:Literal> </ogc:PropertyIsEqualTo>
+		  </ogc:Filter><PolygonSymbolizer><Fill>
+		  <CssParameter name="fill">#CA00DB</CssParameter>
+		  </Fill></PolygonSymbolizer></Rule>
         <Rule>
           <Name>Hög bebyggelse</Name>
           <Title>Hög bebyggelse</Title><ogc:Filter><ogc:PropertyIsEqualTo><ogc:PropertyName>KKOD</ogc:PropertyName> <ogc:Literal><![CDATA[13]]></ogc:Literal> </ogc:PropertyIsEqualTo></ogc:Filter><PolygonSymbolizer><Fill><CssParameter

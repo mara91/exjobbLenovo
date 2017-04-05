@@ -23,10 +23,12 @@
 			<PointSymbolizer>
 				<Graphic>
 					<Mark>
-						<WellKnownName>ttf://Wingdings#0x61</WellKnownName>
-						<Fill>
-							<CssParameter name="fill">#0081FE</CssParameter>
-						</Fill>
+						<se:OnlineResource xlink:type="simple" xlink:href="ttf://Wingdings"/>
+						<se:Format>ttf</se:Format>
+						<se:MarkIndex>61</se:MarkIndex>
+						<se:Fill>
+							<se:SvgParameter name="fill">#0081fe</se:SvgParameter>
+						</se:Fill>
 					</Mark>
 					<Opacity>1</Opacity>
 					<Size>14</Size>

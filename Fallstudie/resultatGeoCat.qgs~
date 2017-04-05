@@ -11,7 +11,7 @@
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="Bebyggelsesymboler">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="Begransningslinjer_for_markslag">
@@ -52,10 +52,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>355626.30661548511125147</xmin>
-      <ymin>6149079.93823226448148489</ymin>
-      <xmax>396815.23613925115205348</xmax>
-      <ymax>6191720.14778073783963919</ymax>
+      <xmin>371303.09219701704569161</xmin>
+      <ymin>6155860.24884937517344952</ymin>
+      <xmax>381600.32457795855589211</xmax>
+      <ymax>6166520.30123649351298809</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -103,9 +103,9 @@
         <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
@@ -641,58 +641,59 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{0a99aa8d-4aba-4ef4-b3e7-b67618bdc19a}">
-          <rule scalemaxdenom="100050" filter="KKOD = 362" key="{04bdacc9-d0bd-4e76-a45d-0ffd619c3096}" symbol="0" label="Gästhamn"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 365" key="{a9c5bd26-ef3e-4b5c-8b84-87a06b47f875}" symbol="1" label="Fyr"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 369" key="{304291ef-88e5-450c-9714-d97475559899}" symbol="2" label="Slussport"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 373" key="{1c4ceaf6-c109-43f1-b187-d61e64a494ac}" symbol="3" label="Mast"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 376" key="{b1e53ba9-66a6-4904-ba12-8f9398571b86}" symbol="4" label="Hjälptelefon"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 526" key="{45be115c-3979-47d1-9aa7-332ffc4f38c4}" symbol="5" label="Dammbyggnad"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 732" key="{9ed4547a-b9cf-451c-bf13-ac037ca1f5ad}" symbol="6" label="Herrgård"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 733" key="{9f66d11b-c180-473c-a007-087e1218c4cf}" symbol="7" label="Hus, storleksklass 3"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 735" key="{fad99b63-eafe-43b6-bb32-1ffb6b04ab7f}" symbol="8" label="Hus, storleksklass 1"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 736" key="{27748a72-e2fe-4ffe-9ccc-360bb5b93516}" symbol="9" label="Hus, storleksklass 2"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 737" key="{82a24314-6038-4e7d-99e0-093dc308f9d8}" symbol="10" label="Slott"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 741" key="{a26a2654-7867-4a79-a536-52c1502c0c0d}" symbol="11" label="Kyrka"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 747" key="{658c8f53-8979-45a7-9e3f-5c1b613c5674}" symbol="12" label="Kyrka, mindre"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 749" key="{31af1d77-d070-4bb4-b52f-20da9855823a}" symbol="13" label="Punkt, ej specificerad"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 753" key="{12df548c-ede3-4546-aff0-73139f43882e}" symbol="14" label="Väderkvarn"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 756" key="{3d014c82-f122-40c9-9a76-7a97f53d2136}" symbol="15" label="Vindkraftverk"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 757" key="{8bf774aa-a1e3-4332-8e66-bce058bb73fd}" symbol="16" label="Skorsten"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 759" key="{de82a39f-1dcf-4892-ac6e-2e4658638745}" symbol="17" label="Torn"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 762" key="{1c4490e3-ec64-40de-b450-a756c9d6e141}" symbol="18" label="Begravningsplats"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 763" key="{6a75f46f-76b8-4356-9407-eed8284531ef}" symbol="19" label="Idrottsplats"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 767" key="{cfde801c-3351-434e-8ee4-e57b5125815b}" symbol="20" label="Skjutbana"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 769" key="{9d556231-9549-48bd-a0df-1d20e6cfc240}" symbol="21" label="Travbana"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 770" key="{6f1c9b53-f9f9-41e6-8294-118a2c6bf96f}" symbol="22" label="Kåta"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 775" key="{c88549d5-8ae4-486c-8e23-03dcce090d3b}" symbol="23" label="Vindskydd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 777" key="{390cf839-523c-46fb-9b40-7f6a3398250e}" symbol="24" label="Badplats"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 778" key="{110305fe-4269-4595-8074-a990ad214bde}" symbol="25" label="Campingplats"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 779" key="{cff3594f-8bd5-4f5c-8bcf-463c79fba554}" symbol="26" label="Bad, tempererat"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 794" key="{81c0538f-c867-4c66-9912-5f0edab16492}" symbol="27" label="Utsiktsplats"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 795" key="{cb637ef3-a0e5-4491-a5c5-1cf452ddace8}" symbol="28" label="Golfbana"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 797" key="{5cb5dcb4-8dc2-4a66-9946-395a2247079b}" symbol="29" label="Vandrarhem"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 798" key="{91954c8b-5197-4aa5-877c-64cbdeb97507}" symbol="30" label="Sjukhus"/>
+        <rules key="{7d2dfd6f-e538-4724-850e-3364001e698a}">
+          <rule scalemaxdenom="100050" filter="KKOD = 362" key="{57472780-8f0e-4395-a3f0-e7659c93041f}" symbol="0" label="Gästhamn"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 365" key="{dddfc25b-51ce-4311-9cc8-2517201b02bc}" symbol="1" label="Fyr"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 369" key="{7c58a8c7-6957-4cda-b74f-92456d560f75}" symbol="2" label="Slussport"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 373" key="{a916e891-f14e-4f60-af8b-ac5edba353c4}" symbol="3" label="Mast"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 376" key="{6d81ae8a-7ad1-4406-9459-640dc3e8c93a}" symbol="4" label="Hjälptelefon"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 526" key="{98ffbd19-0fed-40de-a103-231ffe265419}" symbol="5" label="Dammbyggnad"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 732" key="{65d5bf7d-9eb7-4786-8293-f7b980530dd9}" symbol="6" label="Herrgård"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 733" key="{2d266857-ce47-4ebb-be2a-2b11fa0795fa}" symbol="7" label="Hus, storleksklass 3"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 735" key="{063153ce-c13b-4882-be01-a7ad13b8495c}" symbol="8" label="Hus, storleksklass 1"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 736" key="{e238d81f-c966-4162-83b6-f3c73e77fa1b}" symbol="9" label="Hus, storleksklass 2"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 737" key="{a3d3f61c-bbcb-439c-8fd9-3b1c0567b9dd}" symbol="10" label="Slott"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 741" key="{f0a17a3e-a103-4b32-ae34-1d70005e7c08}" symbol="11" label="Kyrka"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 747" key="{40a35fc8-8889-483e-a2ce-7d8ec2aee7e2}" symbol="12" label="Kyrka, mindre"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 749" key="{dcede304-c3ce-405c-aeed-2d3775a60b71}" symbol="13" label="Punkt, ej specificerad"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 753" key="{f02e145e-fc1a-4d45-b44c-403c646f9c4e}" symbol="14" label="Väderkvarn"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 756" key="{203e2d3f-8484-4070-9f93-1be108d17a04}" symbol="15" label="Vindkraftverk"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 757" key="{0fba8423-e1eb-4758-b5fb-6a4b4ad56ddc}" symbol="16" label="Skorsten"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 759" key="{37dd7c82-6a5d-44f0-b5e4-8b2fbabe1fff}" symbol="17" label="Torn"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 762" key="{43e04832-5dea-47c3-9de7-be063f4ff79c}" symbol="18" label="Begravningsplats"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 763" key="{27f52bc5-1a25-406d-95dc-46ad163fe0a4}" symbol="19" label="Idrottsplats"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 767" key="{75abead9-6ddc-45bf-8d8a-32785cc6c6ab}" symbol="20" label="Skjutbana"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 769" key="{628c7e3e-d364-4704-8809-77e8ad21b6e0}" symbol="21" label="Travbana"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 770" key="{e9c3019e-adb1-4aa2-8095-db8a3de6872e}" symbol="22" label="Kåta"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 775" key="{c467dace-201d-4205-aa99-83d51dc4a609}" symbol="23" label="Vindskydd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 777" key="{21eb3e0a-bed4-4934-9e1e-d7c3f4720425}" symbol="24" label="Badplats"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 778" key="{d3d2617d-7c60-46a3-a1d3-f9cd29958d99}" symbol="25" label="Campingplats"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 779" key="{1c775c02-572e-41a6-878f-27723f7f268a}" symbol="26" label="Bad, tempererat"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 794" key="{5edf8f68-b303-4731-ae89-b68bff2c1c3f}" symbol="27" label="Utsiktsplats"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 795" key="{761086ba-df08-4e81-a518-41f42cdbd2f7}" symbol="28" label="Golfbana"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 797" key="{1d4a5ef7-926b-4df4-a252-d82671f9bf58}" symbol="29" label="Vandrarhem"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 798" key="{cff929ce-a24f-4364-9417-65b9bc3b1df2}" symbol="30" label="Sjukhus"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="FontMarker" locked="0">
+            <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="chr" v="="/>
               <prop k="color" v="0,129,254,255"/>
-              <prop k="font" v="Wingdings"/>
               <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="miter"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
-              <prop k="outline_color" v="255,255,255,255"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="no"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="outline_width_unit" v="MM"/>
+              <prop k="scale_method" v="diameter"/>
               <prop k="size" v="14"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -3831,16 +3832,16 @@ def my_form_open(dialog, layer, feature):
               <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="78,78,78,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
+              <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
             <layer pass="0" class="SimpleMarker" locked="0">
@@ -3851,16 +3852,16 @@ def my_form_open(dialog, layer, feature):
               <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="0,0,0,255"/>
               <prop k="outline_style" v="no"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
+              <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
