@@ -5,46 +5,46 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170310100251432" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\raa_fornminnen\FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170310100251432" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/raa_fornminnen/FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\bs_riks.shp" name="Bebyggelsesymboler">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="Bebyggelsesymboler">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\trafikverket_riksintressen\JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\ml_riks.shp" name="Begransningslinjer_for_markslag">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="Begransningslinjer_for_markslag">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\vl_riks.shp" name="Vagar">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="Vagar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Text__punkter20170310100318608" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\tx_riks.shp" name="Text__punkter">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Text__punkter20170310100318608" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/tx_riks.shp" name="Text__punkter">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RI_naturvard_MB_3kap6.shp" name="Riksintresse_Naturvard__MB_36">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp" name="Riksintresse_Naturvard__MB_36">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_Riksintresse_Kulturmiljovard">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_Riksintresse_Kulturmiljovard">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_Riksintresse_Rorligt_friluftsliv__42">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_Riksintresse_Rorligt_friluftsliv__42">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_Riksintresse_Hogexploaterad_kust__44">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_Riksintresse_Hogexploaterad_kust__44">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Kraftledningar20170310100258072" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\kl_riks.shp" name="Kraftledningar">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Kraftledningar20170310100258072" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/kl_riks.shp" name="Kraftledningar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Jordart__grundlager20170310100255192" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\sgu_jordartskarta1m\jordarter_1miljon.shp" name="Jordart__grundlager">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Jordart__grundlager20170310100255192" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/sgu_jordartskarta1m/jordarter_1miljon.shp" name="Jordart__grundlager">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_tk\mb_riks.shp" name="Bebyggd_mark">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/mb_riks.shp" name="Bebyggd_mark">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -52,10 +52,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>348241.43883244029711932</xmin>
-      <ymin>6128027.72038976661860943</ymin>
-      <xmax>430619.29787997237872332</xmax>
-      <ymax>6213308.13948671333491802</ymax>
+      <xmin>371303.09219701704569161</xmin>
+      <ymin>6155860.24884937517344952</ymin>
+      <xmax>381600.32457795855589211</xmax>
+      <ymax>6166520.30123649351298809</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -103,9 +103,9 @@
         <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
@@ -3841,7 +3841,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
             <layer pass="0" class="SimpleMarker" locked="0">
@@ -3861,7 +3861,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
