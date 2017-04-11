@@ -5,51 +5,51 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083005267" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_tk\tx_riks.shp" name="tx_riks">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083005267" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/tx_riks.shp" name="tx_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083052821" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\tx_riks.shp" name="tx_riks">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083052821" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/tx_riks.shp" name="tx_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170405083111432" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\raa_fornminnen\FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170405083111432" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/raa_fornminnen/FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="bs_riks20170405083052810" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\bs_riks.shp" name="bs_riks">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="bs_riks20170405083052810" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="bs_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="JarnvagStationer20170405083141776" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\trafikverket_riksintressen\JarnvagStationer.shp" name="JarnvagStationer">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="JarnvagStationer20170405083141776" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="JarnvagStationer">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="ml_riks20170405083052817" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\ml_riks.shp" name="ml_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="ml_riks20170405083052817" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="ml_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="al_riks20170405083052807" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\al_riks.shp" name="al_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="al_riks20170405083052807" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="kl_riks20170405083052814" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\kl_riks.shp" name="kl_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="kl_riks20170405083052814" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/kl_riks.shp" name="kl_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vl_riks20170405083052826" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_vk\vl_riks.shp" name="vl_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vl_riks20170405083052826" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="vl_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="jordarter_1miljon20170405083130015" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\sgu_jordartskarta1m\jordarter_1miljon.shp" name="jordarter_1miljon">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="jordarter_1miljon20170405083130015" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/sgu_jordartskarta1m/jordarter_1miljon.shp" name="jordarter_1miljon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="mb_riks20170405083005263" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lm_tk\mb_riks.shp" name="mb_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="mb_riks20170405083005263" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/mb_riks.shp" name="mb_riks">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Länsstyrelsen">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Hogexploateradkust_MB4kap420170405082920527" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_RI_Hogexploateradkust_MB4kap4">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Hogexploateradkust_MB4kap420170405082920527" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_RI_Hogexploateradkust_MB4kap4">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Rorligt_friluftsliv_MB4kap220170405082920548" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_RI_Rorligt_friluftsliv_MB4kap2">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Rorligt_friluftsliv_MB4kap220170405082920548" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_RI_Rorligt_friluftsliv_MB4kap2">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_RI_Kulturmiljovard_MB3KAP620170405082920553" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_RI_Kulturmiljovard_MB3KAP6">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_RI_Kulturmiljovard_MB3KAP620170405082920553" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_RI_Kulturmiljovard_MB3KAP6">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RI_naturvard_MB_3kap620170405082920556" source="C:\Users\Användaren\Documents\GitHub\exjobbLenovo\Fallstudie\ut\lansstyrelsen_riksintressen\RI_naturvard_MB_3kap6.shp" name="RI_naturvard_MB_3kap6">
+      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RI_naturvard_MB_3kap620170405082920556" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp" name="RI_naturvard_MB_3kap6">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -58,10 +58,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>370670.92479226266732439</xmin>
-      <ymin>6148745.80777659267187119</ymin>
-      <xmax>403438.92479226266732439</xmax>
-      <ymax>6181513.80777659267187119</ymax>
+      <xmin>375895.63189798191888258</xmin>
+      <ymin>6158059.41609548404812813</ymin>
+      <xmax>384087.63189798191888258</xmax>
+      <ymax>6166251.41609548404812813</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -151,8 +151,8 @@
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="an_riks20161222101444999"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKBallast20170303104734881"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="rutnat20170228074914207"/>
-      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKPlats_platsmitt20170303104741687"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="mb_riks20170405083005263"/>
+      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKPlats_platsmitt20170303104741687"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKInfrastrukturagare20170303104738224"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vattendrag__ekologisk_status__näringsämnen_kopia2017030113284495029821"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="VISS_sjoar_2010_2015_kopia2017030113265691612548"/>
@@ -207,8 +207,8 @@
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="DjupaSkyddAnkarOmr20170302084849141"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKLinjekategori20170303104739367"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="nd_riks20161222102503526"/>
-      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="hl_riks20161222104651021"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="LST_RI_Hogexploateradkust_MB4kap420170405082920527"/>
+      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="hl_riks20161222104651021"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="jordarter_1miljon20161222111005543"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sjöar_ekologisk_status___näringsämnen_kopia201703011326569296149"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="bt_riks20161222101445378"/>
@@ -250,8 +250,8 @@
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKVagbro20170303104751548"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="bs_riks20161222101445185"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="jordarter_1miljon20161222111206496"/>
-      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vattendrag__ekologisk_status__bottenfauna_kopia2017030113284494826213"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="al_riks20170405083052807"/>
+      <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Vattendrag__ekologisk_status__bottenfauna_kopia2017030113284494826213"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="RI_naturvard_MB_3kap62017030113174807131258"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="Sverige_jarnvag_shape_1BIS_DKPlats20170303104741432"/>
       <layer_coordinate_transform destAuthId="EPSG:3006" srcAuthId="EPSG:3006" srcDatumTransform="-1" destDatumTransform="-1" layerid="mk_riks20161222102502581"/>
@@ -504,8 +504,8 @@
         <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170405083111432" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="bs_riks" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="bs_riks" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="bs_riks20170405083052810" visible="1"/>
       </filegroup>
     </legendlayer>
@@ -514,9 +514,9 @@
         <legendlayerfile isInOverview="0" layerid="JarnvagStationer20170405083141776" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="ml_riks" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="ml_riks" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ml_riks20170405083052817" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="ml_riks20170405083052817" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="al_riks" showFeatureCount="0">
@@ -524,9 +524,9 @@
         <legendlayerfile isInOverview="0" layerid="al_riks20170405083052807" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="kl_riks" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="kl_riks" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="kl_riks20170405083052814" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="kl_riks20170405083052814" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="vl_riks" showFeatureCount="0">
@@ -534,14 +534,14 @@
         <legendlayerfile isInOverview="0" layerid="vl_riks20170405083052826" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="jordarter_1miljon" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="jordarter_1miljon" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="jordarter_1miljon20170405083130015" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="jordarter_1miljon20170405083130015" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="mb_riks" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="mb_riks" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="mb_riks20170405083005263" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="mb_riks20170405083005263" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendgroup open="false" checked="Qt::Unchecked" name="Länsstyrelsen">
@@ -1043,6 +1043,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1068,7 +1069,7 @@
         </symbol>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="_MATCHED_R" index="0" name=""/>
         <alias field="OSAK_POS" index="1" name=""/>
@@ -1157,10 +1158,10 @@
           <column width="-1" hidden="1" type="actions"/>
         </columns>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1544,6 +1545,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2029,6 +2031,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2499,6 +2502,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -2947,6 +2951,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -3386,6 +3391,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -3885,6 +3891,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -4033,38 +4040,38 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{2eec01ca-3396-4c6b-828b-26e54a3f14b5}">
-          <rule filter="&quot;kkod&quot; = '362'" key="{5e76ce48-36c3-47b6-8779-dbb9de449c19}" symbol="0" label="Gästhamn"/>
-          <rule filter="&quot;kkod&quot; = '365'" key="{bd9769a5-3270-4736-8fa4-a70322c153c6}" symbol="1" label="Fyr"/>
-          <rule filter="&quot;kkod&quot; = '369'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="2" label="Slussport"/>
-          <rule filter="&quot;kkod&quot; = '373'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="3" label="Mast"/>
-          <rule filter="&quot;kkod&quot; = '376'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="4" label="Hjälptelefon"/>
-          <rule filter="&quot;kkod&quot; = '526'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="5" label="Dammbyggnad"/>
-          <rule filter="&quot;kkod&quot; = '732'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="6" label="Herrgård"/>
-          <rule filter="&quot;kkod&quot; = '733'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="7" label="Hus, storleksklass 3"/>
-          <rule filter="&quot;kkod&quot; = '735'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="8" label="Hus, storleksklass 1"/>
-          <rule filter="&quot;kkod&quot; = '736'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="9" label="Hus, storleksklass 2"/>
-          <rule filter="&quot;kkod&quot; = '737'" key="{b95ff655-499a-4ce6-a7c5-41ca7fdb6bae}" symbol="10" label="Slott"/>
-          <rule filter="&quot;kkod&quot; = '741'" key="{77679499-af2e-489f-a7cb-e1aff2e3654b}" symbol="11" label="Kyrka"/>
-          <rule filter="&quot;kkod&quot; = '747'" key="{eed7cf06-5ed7-45b6-8f11-5bb90092f98f}" symbol="12" label="Kyrka, mindre"/>
-          <rule filter="&quot;kkod&quot; = '749'" key="{a5427df2-cce1-4c93-9ab1-ee67c69cb84c}" symbol="13" label="Punkt, ej specificerad"/>
-          <rule filter="&quot;kkod&quot; = '753'" key="{77679499-af2e-489f-a7cb-e1aff2e3654b}" symbol="14" label="Väderkvarn"/>
-          <rule filter="&quot;kkod&quot; = '756'" key="{eed7cf06-5ed7-45b6-8f11-5bb90092f98f}" symbol="15" label="Vindkraftverk"/>
-          <rule filter="&quot;kkod&quot; = '757'" key="{a5427df2-cce1-4c93-9ab1-ee67c69cb84c}" symbol="16" label="Skorsten"/>
-          <rule filter="&quot;kkod&quot; = '759'" key="{3660afbf-e21f-446f-9093-63fe85b39c30}" symbol="17" label="Torn"/>
-          <rule filter="&quot;kkod&quot; = '762'" key="{7a25f72a-52b1-4af8-87cf-25aa73ec1e26}" symbol="18" label="Begravningsplats"/>
-          <rule filter="&quot;kkod&quot; = '763'" key="{35e7d63e-ec3f-45df-81a0-c3b4ac43128c}" symbol="19" label="Idrottsplats"/>
-          <rule filter="&quot;kkod&quot; = '767'" key="{303671d0-bb5e-4c27-8186-0c2b7fbc7d32}" symbol="20" label="Skjutbana"/>
-          <rule filter="&quot;kkod&quot; = '769'" key="{09b7350c-77e7-43af-8ae8-c8c95bd72b5b}" symbol="21" label="Travbana"/>
-          <rule filter="&quot;kkod&quot; = '770'" key="{973847cb-6b0d-4e90-afe0-b36fb297f6b0}" symbol="22" label="Kåta"/>
-          <rule filter="&quot;kkod&quot; = '775'" key="{41d9a404-444b-4ec2-abf8-e1f21ab6b102}" symbol="23" label="Vindskydd"/>
-          <rule filter="&quot;kkod&quot; = '777'" key="{1a280dd5-480b-4666-8887-dfb6c55c3bfd}" symbol="24" label="Badplats"/>
-          <rule filter="&quot;kkod&quot; = '778'" key="{8cf464c6-656a-48c9-a116-2ba7346704e0}" symbol="25" label="Campingplats"/>
-          <rule filter="&quot;kkod&quot; = '779'" key="{ddb89a93-3dc9-43f8-955f-4c45379fe19f}" symbol="26" label="Bad, tempererat"/>
-          <rule filter="&quot;kkod&quot; = '794'" key="{9ebdfc56-5c05-4767-9ffa-bfd20fc5b22b}" symbol="27" label="Utsiktsplats"/>
-          <rule filter="&quot;kkod&quot; = '795'" key="{cad6e49c-b5b1-4f0d-8dfe-36927f6b2466}" symbol="28" label="Golfbana"/>
-          <rule filter="&quot;kkod&quot; = '797'" key="{12c8add8-dbde-4277-aa1d-197f9e4503d0}" symbol="29" label="Vandrarhem"/>
-          <rule filter="&quot;kkod&quot; = '798'" key="{ac729c43-5931-4ef7-ab2d-b6979b39b3f5}" symbol="30" label="Sjukhus"/>
+        <rules key="{2fec3015-5b39-4d3f-9a88-2946ebaf5a5a}">
+          <rule scalemaxdenom="100050" filter="kkod = 362" key="{2d3400c4-3eb8-43c8-88b3-f7f779c7cd21}" symbol="0" label="Gästhamn"/>
+          <rule scalemaxdenom="100050" filter="kkod = 365" key="{147e9639-2a1a-4bd2-bc60-719dd9deea66}" symbol="1" label="Fyr"/>
+          <rule scalemaxdenom="100050" filter="kkod = 369" key="{c0c1e732-5fa0-43da-9ed2-0b3a065bd51d}" symbol="2" label="Slussport"/>
+          <rule scalemaxdenom="100050" filter="kkod = 373" key="{22743aa0-f886-460a-953b-c153a90b007b}" symbol="3" label="Mast"/>
+          <rule scalemaxdenom="100050" filter="kkod = 376" key="{ad783a23-bff7-4388-b91f-373d35ab7ec7}" symbol="4" label="Hjälptelefon"/>
+          <rule scalemaxdenom="100050" filter="kkod = 526" key="{6a53aecb-7214-4c1e-bacd-ea1b15bf07dc}" symbol="5" label="Dammbyggnad"/>
+          <rule scalemaxdenom="100050" filter="kkod = 732" key="{e5d49972-2191-43ae-80e1-fcd791e2d056}" symbol="6" label="Herrgård"/>
+          <rule scalemaxdenom="100050" filter="kkod = 733" key="{28b56453-a1d7-44b3-bdab-e85e01faf410}" symbol="7" label="Hus, storleksklass 3"/>
+          <rule scalemaxdenom="100050" filter="kkod = 735" key="{12c2c550-5622-493e-9375-3ab917599aa5}" symbol="8" label="Hus, storleksklass 1"/>
+          <rule scalemaxdenom="100050" filter="kkod = 736" key="{a502dc40-9ca4-482a-8c8b-c1ff9026e20e}" symbol="9" label="Hus, storleksklass 2"/>
+          <rule scalemaxdenom="100050" filter="kkod = 737" key="{45e7994e-662e-493d-aa1e-0499960ec0f9}" symbol="10" label="Slott"/>
+          <rule scalemaxdenom="100050" filter="kkod = 741" key="{43506e91-9ec0-431f-b7a3-10bdeaac8c0e}" symbol="11" label="Kyrka"/>
+          <rule scalemaxdenom="100050" filter="kkod = 747" key="{c500e81e-9d72-4bbd-aa28-67949c3dd939}" symbol="12" label="Kyrka, mindre"/>
+          <rule scalemaxdenom="100050" filter="kkod = 749" key="{4da92171-5e03-4ca3-894b-0c65ea3a7ef5}" symbol="13" label="Punkt, ej specificerad"/>
+          <rule scalemaxdenom="100050" filter="kkod = 753" key="{d89d235f-a7cc-418d-bbfe-7fe82933ac6c}" symbol="14" label="Väderkvarn"/>
+          <rule scalemaxdenom="100050" filter="kkod = 756" key="{fe8b1fb0-1868-464c-8bfa-6769194826c7}" symbol="15" label="Vindkraftverk"/>
+          <rule scalemaxdenom="100050" filter="kkod = 757" key="{492e7183-cab8-4a68-bc7a-d28c6aefd219}" symbol="16" label="Skorsten"/>
+          <rule scalemaxdenom="100050" filter="kkod = 759" key="{15a643d5-9606-4c8e-8f81-de833bfc2c49}" symbol="17" label="Torn"/>
+          <rule scalemaxdenom="100050" filter="kkod = 762" key="{9d599cfa-f60f-4782-9c65-197252c6ab5f}" symbol="18" label="Begravningsplats"/>
+          <rule scalemaxdenom="100050" filter="kkod = 763" key="{87a73c01-e81e-4a5d-b45f-ca149f823f5c}" symbol="19" label="Idrottsplats"/>
+          <rule scalemaxdenom="100050" filter="kkod = 767" key="{8e1a28e4-648e-465e-bd54-1c5213a0882c}" symbol="20" label="Skjutbana"/>
+          <rule scalemaxdenom="100050" filter="kkod = 769" key="{ffd3dcf5-868a-4fce-9de9-968e79b2c509}" symbol="21" label="Travbana"/>
+          <rule scalemaxdenom="100050" filter="kkod = 770" key="{d4c170fe-7099-46ba-8fc8-a3aa0c223a09}" symbol="22" label="Kåta"/>
+          <rule scalemaxdenom="100050" filter="kkod = 775" key="{385efee1-e1f7-4304-b3fc-b6cc01b487ad}" symbol="23" label="Vindskydd"/>
+          <rule scalemaxdenom="100050" filter="kkod = 777" key="{7ffb0e43-7e00-4b8e-892c-b0888b883542}" symbol="24" label="Badplats"/>
+          <rule scalemaxdenom="100050" filter="kkod = 778" key="{b7fb54d9-36f7-4869-ab08-958a564f3af4}" symbol="25" label="Campingplats"/>
+          <rule scalemaxdenom="100050" filter="kkod = 779" key="{d80132ce-111b-422a-9d9c-59eb2bccf73b}" symbol="26" label="Bad, tempererat"/>
+          <rule scalemaxdenom="100050" filter="kkod = 794" key="{35727d41-92a0-4bca-9c0e-a9fb04738afe}" symbol="27" label="Utsiktsplats"/>
+          <rule scalemaxdenom="100050" filter="kkod = 795" key="{445bc1d9-2dd1-41a3-a6f2-ba06aa2264a0}" symbol="28" label="Golfbana"/>
+          <rule scalemaxdenom="100050" filter="kkod = 797" key="{f219af9a-f0c4-492e-932f-819c77e10494}" symbol="29" label="Vandrarhem"/>
+          <rule scalemaxdenom="100050" filter="kkod = 798" key="{c9a5f34a-183a-4b0d-a568-c955cab4ad8f}" symbol="30" label="Sjukhus"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
@@ -4084,7 +4091,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="14"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4105,7 +4112,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="11"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4126,7 +4133,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="9"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4147,7 +4154,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="9"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4168,7 +4175,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="12"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4189,7 +4196,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="5"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4210,7 +4217,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="9"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4231,7 +4238,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="12"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4252,7 +4259,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="5"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4273,7 +4280,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="8"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4294,7 +4301,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="10"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4315,7 +4322,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4336,7 +4343,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="8.4"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4357,7 +4364,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="14"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4378,7 +4385,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="12"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4399,7 +4406,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="8"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4420,7 +4427,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="10"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4441,7 +4448,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="13"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4462,7 +4469,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="14"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4483,7 +4490,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="13"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4504,7 +4511,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4525,7 +4532,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="12"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4546,7 +4553,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="12"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4567,7 +4574,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="10"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4588,7 +4595,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4609,7 +4616,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="10"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4630,7 +4637,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="10"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4651,7 +4658,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4672,7 +4679,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4693,7 +4700,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="3"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4714,7 +4721,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_unit" v="MM"/>
               <prop k="size" v="4"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -4892,6 +4899,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -5435,6 +5443,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -6051,6 +6060,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -6505,6 +6515,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -8064,6 +8075,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -8275,7 +8287,7 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="TSPARR" index="0" name=""/>
         <alias field="KKOD" index="1" name=""/>
@@ -8296,10 +8308,10 @@ def my_form_open(dialog, layer, feature):
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="29">
         <columns/>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -8446,7 +8458,7 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="TSPARR" index="0" name=""/>
         <alias field="KKOD" index="1" name=""/>
@@ -8468,10 +8480,10 @@ def my_form_open(dialog, layer, feature):
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="-1">
         <columns/>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
@@ -9854,6 +9866,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">

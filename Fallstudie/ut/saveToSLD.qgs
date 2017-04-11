@@ -1,55 +1,55 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="2.18.5">
+<qgis projectname="" version="2.18.3">
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083005267" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/tx_riks.shp" name="tx_riks">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tx_riks20170405083005267" name="tx_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="tx_riks20170405083052821" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/tx_riks.shp" name="tx_riks">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tx_riks20170405083052821" name="tx_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170405083111432" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/raa_fornminnen/FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="FMIS_Sverige_SWEREF_point20170405083111432" name="FMIS_Sverige_SWEREF_point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="bs_riks20170405083052810" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="bs_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="bs_riks20170405083052810" name="bs_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="JarnvagStationer20170405083141776" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="JarnvagStationer">
+    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="JarnvagStationer20170405083141776" name="JarnvagStationer">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="ml_riks20170405083052817" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="ml_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="ml_riks20170405083052817" name="ml_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="al_riks20170405083052807" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="al_riks20170405083052807" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="kl_riks20170405083052814" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/kl_riks.shp" name="kl_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="kl_riks20170405083052814" name="kl_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="vl_riks20170405083052826" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="vl_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="vl_riks20170405083052826" name="vl_riks">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="jordarter_1miljon20170405083130015" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/sgu_jordartskarta1m/jordarter_1miljon.shp" name="jordarter_1miljon">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="jordarter_1miljon20170405083130015" name="jordarter_1miljon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="mb_riks20170405083005263" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/mb_riks.shp" name="mb_riks">
+    <layer-tree-layer expanded="0" checked="Qt::Unchecked" id="mb_riks20170405083005263" name="mb_riks">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-group expanded="0" checked="Qt::Unchecked" name="Länsstyrelsen">
       <customproperties/>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Hogexploateradkust_MB4kap420170405082920527" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_RI_Hogexploateradkust_MB4kap4">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="LST_RI_Hogexploateradkust_MB4kap420170405082920527" name="LST_RI_Hogexploateradkust_MB4kap4">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_RI_Rorligt_friluftsliv_MB4kap220170405082920548" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_RI_Rorligt_friluftsliv_MB4kap2">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="LST_RI_Rorligt_friluftsliv_MB4kap220170405082920548" name="LST_RI_Rorligt_friluftsliv_MB4kap2">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_RI_Kulturmiljovard_MB3KAP620170405082920553" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_RI_Kulturmiljovard_MB3KAP6">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="RAA_RI_Kulturmiljovard_MB3KAP620170405082920553" name="RAA_RI_Kulturmiljovard_MB3KAP6">
         <customproperties/>
       </layer-tree-layer>
-      <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RI_naturvard_MB_3kap620170405082920556" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp" name="RI_naturvard_MB_3kap6">
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="RI_naturvard_MB_3kap620170405082920556" name="RI_naturvard_MB_3kap6">
         <customproperties/>
       </layer-tree-layer>
     </layer-tree-group>
@@ -499,14 +499,14 @@
         <legendlayerfile isInOverview="0" layerid="tx_riks20170405083052821" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="FMIS_Sverige_SWEREF_point" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="FMIS_Sverige_SWEREF_point" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170405083111432" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170405083111432" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="bs_riks" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="bs_riks20170405083052810" visible="1"/>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="bs_riks" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="bs_riks20170405083052810" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="JarnvagStationer" showFeatureCount="0">
@@ -698,7 +698,7 @@
     </Composition>
   </Composer>
   <projectlayers>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>FMIS_Sverige_SWEREF_point20170405083111432</id>
       <datasource>./raa_fornminnen/FMIS_Sverige_SWEREF_point.shp</datasource>
       <keywordList>
@@ -718,9 +718,51 @@
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="_MATCHED_R" expression=""/>
+        <default field="OSAK_POS" expression=""/>
+        <default field="OBJEKT_ID" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="DOK_DATUM" expression=""/>
+        <default field="ANTAL" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="LAGE" expression=""/>
+        <default field="ANSV_PERS" expression=""/>
+        <default field="ANTIKV_BED" expression=""/>
+        <default field="EGENSKAP3" expression=""/>
+        <default field="SKADESTAT" expression=""/>
+        <default field="EGENSKAP1" expression=""/>
+        <default field="EGENSKAP2" expression=""/>
+        <default field="RAA_NUMMER" expression=""/>
+        <default field="SAMSATT_ID" expression=""/>
+        <default field="GILTIG_FRO" expression=""/>
+        <default field="UNDSOKSTAT" expression=""/>
+        <default field="REG_DATUM" expression=""/>
+        <default field="SOCKEN" expression=""/>
+        <default field="MEDFELFALT" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="BEDOMD" expression=""/>
+        <default field="BYRAMBESL" expression=""/>
+        <default field="ANSV_REG" expression=""/>
+        <default field="ACL_ID" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="LAMNINGTYP" expression=""/>
+        <default field="KOMMUN" expression=""/>
+        <default field="URL" expression=""/>
+        <default field="LANDSKAP" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="LAN" expression=""/>
+        <default field="OSAK_UTBR" expression=""/>
+        <default field="REG_ORG" expression=""/>
+        <default field="GEOMETRI_I" expression=""/>
+        <default field="MATMETOD" expression=""/>
+        <default field="ANSV_ORG" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -848,22 +890,22 @@
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
             <layer pass="0" class="SimpleMarker" locked="0">
               <prop k="angle" v="0"/>
-              <prop k="color" v="37,130,113,255"/>
+              <prop k="color" v="255,0,0,255"/>
               <prop k="horizontal_anchor_point" v="1"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit" v="Pixel"/>
               <prop k="outline_color" v="0,0,0,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
+              <prop k="outline_width_unit" v="Pixel"/>
               <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
+              <prop k="size" v="3.4"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
+              <prop k="size_unit" v="Pixel"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -1186,50 +1228,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="_MATCHED_R" expression=""/>
-        <default field="OSAK_POS" expression=""/>
-        <default field="OBJEKT_ID" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="DOK_DATUM" expression=""/>
-        <default field="ANTAL" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="LAGE" expression=""/>
-        <default field="ANSV_PERS" expression=""/>
-        <default field="ANTIKV_BED" expression=""/>
-        <default field="EGENSKAP3" expression=""/>
-        <default field="SKADESTAT" expression=""/>
-        <default field="EGENSKAP1" expression=""/>
-        <default field="EGENSKAP2" expression=""/>
-        <default field="RAA_NUMMER" expression=""/>
-        <default field="SAMSATT_ID" expression=""/>
-        <default field="GILTIG_FRO" expression=""/>
-        <default field="UNDSOKSTAT" expression=""/>
-        <default field="REG_DATUM" expression=""/>
-        <default field="SOCKEN" expression=""/>
-        <default field="MEDFELFALT" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="BEDOMD" expression=""/>
-        <default field="BYRAMBESL" expression=""/>
-        <default field="ANSV_REG" expression=""/>
-        <default field="ACL_ID" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="LAMNINGTYP" expression=""/>
-        <default field="KOMMUN" expression=""/>
-        <default field="URL" expression=""/>
-        <default field="LANDSKAP" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="LAN" expression=""/>
-        <default field="OSAK_UTBR" expression=""/>
-        <default field="REG_ORG" expression=""/>
-        <default field="GEOMETRI_I" expression=""/>
-        <default field="MATMETOD" expression=""/>
-        <default field="ANSV_ORG" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>JarnvagStationer20170405083141776</id>
       <datasource>./trafikverket_riksintressen/JarnvagStationer.shp</datasource>
       <keywordList>
@@ -1249,9 +1249,35 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="OBJECTID" expression=""/>
+        <default field="RUB_INTNAT" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="GENNAMN" expression=""/>
+        <default field="GENBESKR" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="IDENTIFIER" expression=""/>
+        <default field="STATUS" expression=""/>
+        <default field="NYTT" expression=""/>
+        <default field="RUB_REGLOK" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="FUNKNAT" expression=""/>
+        <default field="REFBESLUT" expression=""/>
+        <default field="METOD" expression=""/>
+        <default field="REVDATUM" expression=""/>
+        <default field="SPECBESKR" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="GENBESKRID" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="SPECBESKID" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="SPECNAMN" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -1654,34 +1680,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="OBJECTID" expression=""/>
-        <default field="RUB_INTNAT" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="GENNAMN" expression=""/>
-        <default field="GENBESKR" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="IDENTIFIER" expression=""/>
-        <default field="STATUS" expression=""/>
-        <default field="NYTT" expression=""/>
-        <default field="RUB_REGLOK" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="FUNKNAT" expression=""/>
-        <default field="REFBESLUT" expression=""/>
-        <default field="METOD" expression=""/>
-        <default field="REVDATUM" expression=""/>
-        <default field="SPECBESKR" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="GENBESKRID" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="SPECBESKID" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="SPECNAMN" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>LST_RI_Hogexploateradkust_MB4kap420170405082920527</id>
       <datasource>./lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp</datasource>
       <keywordList>
@@ -1701,9 +1701,32 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="OBJECTID" expression=""/>
+        <default field="LANSKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="ANM" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TILLKDATUM" expression=""/>
+        <default field="METODBESKR" expression=""/>
+        <default field="ORIGINALID" expression=""/>
+        <default field="AREA_M2" expression=""/>
+        <default field="REVDATUM" expression=""/>
+        <default field="KNAMN" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="BESKRIVNIN" expression=""/>
+        <default field="REFERENS" expression=""/>
+        <default field="OMKRETS_M" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="OBJEKTLANK" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+        <default field="AREA_HA" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -2134,31 +2157,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="OBJECTID" expression=""/>
-        <default field="LANSKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="ANM" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TILLKDATUM" expression=""/>
-        <default field="METODBESKR" expression=""/>
-        <default field="ORIGINALID" expression=""/>
-        <default field="AREA_M2" expression=""/>
-        <default field="REVDATUM" expression=""/>
-        <default field="KNAMN" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="BESKRIVNIN" expression=""/>
-        <default field="REFERENS" expression=""/>
-        <default field="OMKRETS_M" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="OBJEKTLANK" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-        <default field="AREA_HA" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>LST_RI_Rorligt_friluftsliv_MB4kap220170405082920548</id>
       <datasource>./lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp</datasource>
       <keywordList>
@@ -2178,9 +2178,30 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="OBJECTID" expression=""/>
+        <default field="LANSKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="ANM" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TILLKDATUM" expression=""/>
+        <default field="METODBESKR" expression=""/>
+        <default field="ORIGINALID" expression=""/>
+        <default field="AREA_M2" expression=""/>
+        <default field="REVDATUM" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="BESKRIVNIN" expression=""/>
+        <default field="REFERENS" expression=""/>
+        <default field="OMKRETS_M" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="OBJEKTLANK" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -2601,29 +2622,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="OBJECTID" expression=""/>
-        <default field="LANSKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="ANM" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TILLKDATUM" expression=""/>
-        <default field="METODBESKR" expression=""/>
-        <default field="ORIGINALID" expression=""/>
-        <default field="AREA_M2" expression=""/>
-        <default field="REVDATUM" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="BESKRIVNIN" expression=""/>
-        <default field="REFERENS" expression=""/>
-        <default field="OMKRETS_M" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="OBJEKTLANK" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>RAA_RI_Kulturmiljovard_MB3KAP620170405082920553</id>
       <datasource>./lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp</datasource>
       <keywordList>
@@ -2643,9 +2643,29 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="LANSKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="ANM" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TILLKDATUM" expression=""/>
+        <default field="METODBESKR" expression=""/>
+        <default field="ORIGINALID" expression=""/>
+        <default field="AREA_M2" expression=""/>
+        <default field="REVDATUM" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="BESKRIVNIN" expression=""/>
+        <default field="REFERENS" expression=""/>
+        <default field="OMKRETS_M" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="OBJEKTLANK" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -3048,28 +3068,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="LANSKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="ANM" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TILLKDATUM" expression=""/>
-        <default field="METODBESKR" expression=""/>
-        <default field="ORIGINALID" expression=""/>
-        <default field="AREA_M2" expression=""/>
-        <default field="REVDATUM" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="BESKRIVNIN" expression=""/>
-        <default field="REFERENS" expression=""/>
-        <default field="OMKRETS_M" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="OBJEKTLANK" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>RI_naturvard_MB_3kap620170405082920556</id>
       <datasource>./lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp</datasource>
       <keywordList>
@@ -3089,9 +3089,33 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="LANSKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="ANM" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TILLKDATUM" expression=""/>
+        <default field="DIG_SKALA" expression=""/>
+        <default field="RIKSVARDE" expression=""/>
+        <default field="METODBESKR" expression=""/>
+        <default field="ORIGINALID" expression=""/>
+        <default field="REVDATUM" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="NAMN" expression=""/>
+        <default field="VARDEOMD" expression=""/>
+        <default field="REVPERSON" expression=""/>
+        <default field="BESKRIVNIN" expression=""/>
+        <default field="REFERENS" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="LAN" expression=""/>
+        <default field="OBJEKTLANK" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+        <default field="AREA_HA" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -3496,32 +3520,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="LANSKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="ANM" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TILLKDATUM" expression=""/>
-        <default field="DIG_SKALA" expression=""/>
-        <default field="RIKSVARDE" expression=""/>
-        <default field="METODBESKR" expression=""/>
-        <default field="ORIGINALID" expression=""/>
-        <default field="REVDATUM" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="NAMN" expression=""/>
-        <default field="VARDEOMD" expression=""/>
-        <default field="REVPERSON" expression=""/>
-        <default field="BESKRIVNIN" expression=""/>
-        <default field="REFERENS" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="LAN" expression=""/>
-        <default field="OBJEKTLANK" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-        <default field="AREA_HA" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>al_riks20170405083052807</id>
       <datasource>./lm_vk/al_riks.shp</datasource>
       <keywordList>
@@ -3541,9 +3541,20 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -3972,19 +3983,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="100050" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="100050" simplifyDrawingHints="0" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>bs_riks20170405083052810</id>
       <datasource>./lm_vk/bs_riks.shp</datasource>
       <keywordList>
@@ -4004,9 +4004,21 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="SRIKT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -4982,20 +4994,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="SRIKT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="100000" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="100000" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>jordarter_1miljon20170405083130015</id>
       <datasource>./sgu_jordartskarta1m/jordarter_1miljon.shp</datasource>
       <keywordList>
@@ -5015,9 +5015,27 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="THEMES" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+        <default field="KARTERING" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OBJECTID" expression=""/>
+        <default field="JG2" expression=""/>
+        <default field="JG2_TX" expression=""/>
+        <default field="_CLIPPED" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="KARTTYP" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="SHAPE_LEN" expression=""/>
+        <default field="SYMBOL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="SHAPE_AREA" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -5536,26 +5554,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="THEMES" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-        <default field="KARTERING" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OBJECTID" expression=""/>
-        <default field="JG2" expression=""/>
-        <default field="JG2_TX" expression=""/>
-        <default field="_CLIPPED" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="KARTTYP" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="SHAPE_LEN" expression=""/>
-        <default field="SYMBOL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="SHAPE_AREA" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>kl_riks20170405083052814</id>
       <datasource>./lm_vk/kl_riks.shp</datasource>
       <keywordList>
@@ -5575,9 +5575,20 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -6141,19 +6152,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>mb_riks20170405083005263</id>
       <datasource>./lm_tk/mb_riks.shp</datasource>
       <keywordList>
@@ -6173,9 +6173,19 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -6594,18 +6604,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="100050" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="100050" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="1" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>ml_riks20170405083052817</id>
       <datasource>./lm_vk/ml_riks.shp</datasource>
       <keywordList>
@@ -6625,9 +6625,20 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -8156,19 +8167,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>tx_riks20170405083005267</id>
       <datasource>./lm_tk/tx_riks.shp</datasource>
       <keywordList>
@@ -8188,9 +8188,24 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="TSPARR" expression=""/>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TEXTTYP" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="TJUST" expression=""/>
+        <default field="TEXT" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="TRIKT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -8320,23 +8335,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="TSPARR" expression=""/>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TEXTTYP" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="TJUST" expression=""/>
-        <default field="TEXT" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="TRIKT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>tx_riks20170405083052821</id>
       <datasource>./lm_vk/tx_riks.shp</datasource>
       <keywordList>
@@ -8356,9 +8356,25 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="TSPARR" expression=""/>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="TEXTTYP" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="TJUST" expression=""/>
+        <default field="TEXT" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="TRIKT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -8492,24 +8508,8 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="TSPARR" expression=""/>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TEXTTYP" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="TJUST" expression=""/>
-        <default field="TEXT" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="TRIKT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" readOnly="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>vl_riks20170405083052826</id>
       <datasource>./lm_vk/vl_riks.shp</datasource>
       <keywordList>
@@ -8529,9 +8529,25 @@ def my_form_open(dialog, layer, feature):
         </spatialrefsys>
       </srs>
       <provider encoding="System">ogr</provider>
+      <previewExpression></previewExpression>
       <vectorjoins/>
       <layerDependencies/>
       <expressionfields/>
+      <defaults>
+        <default field="VAGNR4" expression=""/>
+        <default field="KKOD" expression=""/>
+        <default field="THEMES" expression=""/>
+        <default field="TK_UPDATE" expression=""/>
+        <default field="SK1M_SPECI" expression=""/>
+        <default field="KATEGORI" expression=""/>
+        <default field="VAGNR3" expression=""/>
+        <default field="SERIAL" expression=""/>
+        <default field="BKLASS" expression=""/>
+        <default field="VAGNR2" expression=""/>
+        <default field="VAGNR1" expression=""/>
+        <default field="OUTPUT" expression=""/>
+        <default field="_MATCHED_R" expression=""/>
+      </defaults>
       <map-layer-style-manager current="">
         <map-layer-style name=""/>
       </map-layer-style-manager>
@@ -9957,22 +9973,6 @@ def my_form_open(dialog, layer, feature):
         <rowstyles/>
         <fieldstyles/>
       </conditionalstyles>
-      <defaults>
-        <default field="VAGNR4" expression=""/>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="VAGNR3" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="BKLASS" expression=""/>
-        <default field="VAGNR2" expression=""/>
-        <default field="VAGNR1" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression></previewExpression>
     </maplayer>
   </projectlayers>
   <properties>
