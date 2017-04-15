@@ -11,13 +11,13 @@
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="Bebyggelsesymboler">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="Begransningslinjer_for_markslag">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="Begransningslinjer_for_markslag20170310100249408" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="Begransningslinjer_for_markslag">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="Vagar">
@@ -52,10 +52,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>355626.30661548511125147</xmin>
-      <ymin>6149079.93823226448148489</ymin>
-      <xmax>396815.23613925115205348</xmax>
-      <ymax>6191720.14778073783963919</ymax>
+      <xmin>364544.94435153994709253</xmin>
+      <ymin>6154560.69482004083693027</ymin>
+      <xmax>379959.90424544224515557</xmax>
+      <ymax>6162796.27987446822226048</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -103,19 +103,19 @@
         <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Begransningslinjer_for_markslag20170310100249408" visible="0"/>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Begransningslinjer_for_markslag20170310100249408" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="al_riks" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="al_riks" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="al_riks20170324143323804" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="al_riks20170324143323804" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Vagar" showFeatureCount="0">
@@ -1683,75 +1683,75 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{f948d97c-e55e-4ac4-9e63-2033237c28fa}">
-          <rule scalemaxdenom="100050" filter="KKOD = 1" key="{435bf204-045f-43a3-81c0-d20dc2a26867}" symbol="0" label="Vatten"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 2" key="{25a48525-148f-4936-bb34-a4df49c510fa}" symbol="1" label="Bebyggelseområde"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 3" key="{188a0c05-53e5-428c-81b4-fcaf261e489e}" symbol="2" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 4" key="{2a7ce1e5-ddbd-4993-95bd-2cee77d77cb4}" symbol="3" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 5" key="{ff7bb92a-ec92-4eb6-a054-ef1efbcac95c}" symbol="4" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 6" key="{cb649e59-0d58-46dc-95d8-48f11e206502}" symbol="5" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 7" key="{100275c7-d3b2-4ff4-8e0d-3e7799af6a25}" symbol="6" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 8" key="{f1887477-806c-413d-875f-c9262b95833c}" symbol="7" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 10" key="{e57b6346-518d-4733-9d36-d590610f21d3}" symbol="8" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 11" key="{8e646290-5b40-4c4b-87eb-f6bb4383457b}" symbol="9" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 13" key="{fcaa3734-5120-4a10-8b58-9d9c2339ad5f}" symbol="10" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 102" key="{684bd642-8739-4a46-a4fb-31c2cf2d74cc}" symbol="11" scalemindenom="1000" label="Bebyggelseområde"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 103" key="{8524956c-3c7b-48f9-8fd6-351b429b4bad}" symbol="12" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 104" key="{3ad290ec-79b3-4f0d-8f2d-a8a7ab423d91}" symbol="13" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 105" key="{9dba0f06-9eb7-46e8-8f0c-3f2a7ae85b03}" symbol="14" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 106" key="{7d9d3112-7802-41e0-839d-599a37a0f6ee}" symbol="15" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 107" key="{b24b8a9e-2474-4dc5-82b5-865cac3c3ae0}" symbol="16" scalemindenom="1000" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 108" key="{85b3a4f5-464a-41d8-956f-490c62506d5a}" symbol="17" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 110" key="{85ddb412-1cf6-44b7-83f6-ea2389711b89}" symbol="18" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 111" key="{d2ce5157-b1c4-4114-ae78-fed833530e57}" symbol="19" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 113" key="{b49f9202-4ff5-4689-9e3e-f298d76634e0}" symbol="20" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 203" key="{0f892620-19a2-491a-9591-2722e42639d0}" symbol="21" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 204" key="{d4734668-2a84-4014-a446-c7f500e6780a}" symbol="22" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 205" key="{4f62f2d7-f815-420f-8295-08a145dba4db}" symbol="23" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 206" key="{a3d453ab-99aa-4496-b2db-7743c77e3a2a}" symbol="24" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 207" key="{d61ac87d-3a4a-48c6-8c0a-1569e94d8f3e}" symbol="25" scalemindenom="1000" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 208" key="{d12062e9-cfce-4aad-824e-cd950cac1d52}" symbol="26" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 210" key="{800fa32f-8e1c-4120-a9cc-58e558598df1}" symbol="27" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 213" key="{7182caf4-f263-4437-a556-700bebf1f4a1}" symbol="28" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 304" key="{af6e96c2-57d2-4787-8a57-85261431d93a}" symbol="29" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 305" key="{9b59e696-5f74-4272-a16c-8f611f0f178d}" symbol="30" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 306" key="{1a25cbea-69ff-452c-aa2d-385a1382a018}" symbol="31" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 307" key="{6b8b47f6-1646-4f66-8d74-65354718a176}" symbol="32" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 308" key="{675cb2b3-cdb1-4b90-86bc-f49f07a2ca02}" symbol="33" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 310" key="{587dde62-392c-453e-b549-ce125d4323ac}" symbol="34" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 313" key="{bfed32e3-2d4f-42fd-9a52-1cda2b002fab}" symbol="35" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 405" key="{ce4c81e6-da1b-4afb-871e-0ca1655ce2e7}" symbol="36" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 406" key="{e949ea0f-e468-41e1-bc44-16b7f6426926}" symbol="37" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 407" key="{1eba4abc-53d3-403a-8ea6-4a7441718943}" symbol="38" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 408" key="{fb4591f0-32e3-4c9f-8359-b26f5499c55b}" symbol="39" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 410" key="{f22cb8fc-540c-4c17-a1d7-6658089c762f}" symbol="40" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 411" key="{a64fc1cf-0f02-441b-b6c1-f2e47aeddd9c}" symbol="41" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 413" key="{378f5d06-43f6-4ffd-b773-4fe061020e57}" symbol="42" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 506" key="{b0f94840-c0f0-466a-88c5-8579f2a3b59d}" symbol="43" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 507" key="{fb3d7241-b121-4d9d-8f7b-e38cda30042a}" symbol="44" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 508" key="{3bdebcbc-ee5c-4cf2-92f4-e680931b3da2}" symbol="45" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 510" key="{b000280a-fcfb-4874-9ab2-115fe307ef06}" symbol="46" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 511" key="{f865af88-8d59-4465-9d8d-786f19e3bad0}" symbol="47" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 513" key="{67b80c76-4a41-4e73-a3ee-490f61216870}" symbol="48" label="Sankmar, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 607" key="{49126426-afaa-4960-a136-ff053883bbe6}" symbol="49" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 608" key="{5fa97e1d-f8a2-4178-9b0d-b7be3e63ca49}" symbol="50" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 610" key="{ff691a89-d101-4f40-9aef-da89abf5b8d2}" symbol="51" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 613" key="{1c2b9a41-2c91-466b-8249-5fa7a7914235}" symbol="52" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 708" key="{e39eeac0-a30d-4588-8f92-215709a7b2e3}" symbol="53" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 710" key="{7b34f8c8-f299-4a8a-b51c-e80d0ab68670}" symbol="54" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 713" key="{ced691ca-da5a-40bb-8a0d-dd52a5a70da6}" symbol="55" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 810" key="{fbc141b0-51bc-489b-965d-328a66b9dcac}" symbol="56" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 811" key="{28b29643-ffbc-4324-be8d-9d679c5d9f4e}" symbol="57" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 813" key="{56d36679-8c88-4eb1-96bd-e55471867b7d}" symbol="58" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1011" key="{9863fe41-1df3-47e6-a6c4-9346619fb0bd}" symbol="59" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1013" key="{4e4cf3c3-acf8-48d4-b63f-a756fa13f380}" symbol="60" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1113" key="{8eca0320-2ac6-4ee9-a029-9deb1a8b788f}" symbol="61" label="Sankmark, normal/svårframkomlig"/>
+        <rules key="{debde1c7-cf7a-48ed-b091-1e8abe3cf046}">
+          <rule scalemaxdenom="100050" filter="KKOD = 1" key="{80ddb89b-1773-4918-8553-cb714ac66530}" symbol="0" label="Vatten"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 2" key="{b73dc953-8aa8-4d51-bc09-d3cee1fc9d89}" symbol="1" label="Bebyggelseområde"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 3" key="{be7aa510-acb4-427b-bb9c-6bd8ed0ed024}" symbol="2" label="Skog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 4" key="{6cd7e65a-7451-497f-a4a0-4b73c46024bc}" symbol="3" label="Sankmark, svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 5" key="{7f4fa0c6-7246-459f-b760-9cd8f0c451e5}" symbol="4" label="Sankmark, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 6" key="{a4825965-108a-42b5-8b8e-d9ebeffb19a3}" symbol="5" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 7" key="{9ab47415-2c31-4470-9959-edac12c42fd5}" symbol="6" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 8" key="{7e7fcd47-9655-4962-ae9d-0d1f392c898c}" symbol="7" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 10" key="{af62050d-39bb-4c0a-9729-4f11d6284013}" symbol="8" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 11" key="{b84e81da-ccae-43a4-9616-f958c667de85}" symbol="9" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 13" key="{76ed7ea8-3439-45b8-9cb5-0dfc2e4777bc}" symbol="10" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 102" key="{a26f850a-0ac8-4c78-8ea6-847ee4cec536}" symbol="11" scalemindenom="1000" label="Bebyggelseområde"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 103" key="{a4e43799-10e2-411f-b574-7e2c2ad99ab0}" symbol="12" label="Skog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 104" key="{f68d7da7-1333-402e-b946-161193935304}" symbol="13" label="Sankmark, svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 105" key="{2585b68c-f2f2-4ef3-861d-fc75f592fe47}" symbol="14" label="Sankmark, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 106" key="{cf5c1b07-2529-44b8-b41e-e733a1ab1f3c}" symbol="15" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 107" key="{a7bdaf2a-e55b-45c0-a1dd-2d4256674e6e}" symbol="16" scalemindenom="1000" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 108" key="{5967ddc8-c198-4f99-9129-6731bd27969e}" symbol="17" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 110" key="{0585afb8-0cb9-4842-84d7-310e7fb62894}" symbol="18" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 111" key="{36f5aa8d-ceff-4bea-a01c-160a701efacf}" symbol="19" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 113" key="{3afe1570-740c-4c72-a2d6-770cadd2c478}" symbol="20" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 203" key="{d0850252-40ba-41dc-bbee-671925876204}" symbol="21" label="Skog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 204" key="{65655417-4715-483b-ace4-781bd75d4985}" symbol="22" label="Sankmark, svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 205" key="{10f6817a-0068-495c-a2d5-86bf3d6143b3}" symbol="23" label="Sankmark, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 206" key="{0fd0eb0c-3858-4c59-a320-5b3032c8433c}" symbol="24" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 207" key="{42c8cc30-8e02-4a92-847d-9e4d60f11494}" symbol="25" scalemindenom="1000" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 208" key="{12765f3f-234e-457b-9885-ab4c564700f2}" symbol="26" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 210" key="{5eddfbe2-b2af-4130-9216-80014e6eee96}" symbol="27" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 213" key="{aa162112-1711-4bdc-b1ac-94cbb0a8fb70}" symbol="28" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 304" key="{8c435881-01b2-40f0-91f6-18d93fdd5080}" symbol="29" label="Sankmark, svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 305" key="{44c79ef0-23e3-4e17-8e25-be5390f0825e}" symbol="30" label="Sankmark, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 306" key="{f6cf7d1a-5431-46b9-be28-b9f3300fd1ee}" symbol="31" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 307" key="{e20fe694-86cd-4b10-a24a-4fa7b5eb7202}" symbol="32" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 308" key="{a8994843-4bf1-4800-9be5-eba3283de0ff}" symbol="33" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 310" key="{f8c1e71e-015f-441c-bf84-a4affe4297e4}" symbol="34" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 313" key="{08f5ae82-030e-4394-bb9a-9ccb46fb11b5}" symbol="35" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 405" key="{865bb0b6-a087-49bf-b5b6-a5f049b5a5c6}" symbol="36" label="Sankmark, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 406" key="{e07c8e36-ab87-4669-8498-bb3980467e20}" symbol="37" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 407" key="{c2a9b621-4b2d-4569-9573-799ad88b456e}" symbol="38" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 408" key="{a60b377a-5686-4efe-ac61-541313a50d2b}" symbol="39" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 410" key="{48d2df00-a6f0-4aa4-be06-27f386be1f50}" symbol="40" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 411" key="{b5765d28-659c-4066-b7b8-b889d3c1e542}" symbol="41" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 413" key="{2df939b0-917d-42ce-900a-9ee5ef3baf45}" symbol="42" label="Sankmark, svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 506" key="{496d1f25-eadf-4857-827a-23b95c00bc61}" symbol="43" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 507" key="{42d1c460-a97f-413a-be39-6c3d11a68021}" symbol="44" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 508" key="{f9651a33-70fa-49a1-a8b9-ddfa0e74b059}" symbol="45" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 510" key="{eadc5d46-5976-4c82-bd26-bf0e20b5410d}" symbol="46" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 511" key="{ae3f9f54-b1bf-4490-ad94-c88c4b726fa9}" symbol="47" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 513" key="{e5e17c80-eb59-440e-98c3-3446ddc66d87}" symbol="48" label="Sankmar, normal, öppen"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 607" key="{5f6e60e6-9d92-4e74-a227-e240adb04104}" symbol="49" label="Öppen mark"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 608" key="{3bcf7364-a2ba-4d7c-b0c1-184ffa56f6ca}" symbol="50" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 610" key="{6b0189cd-1e08-4686-9a5a-6a7ca362660b}" symbol="51" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 613" key="{47b51718-a752-4068-9a80-4ea69e8380ae}" symbol="52" label="Sankmark, normal, skogklädd"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 708" key="{f70c72ea-b0c7-4030-a9ad-09bc685366cd}" symbol="53" label="Kalfjäll"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 710" key="{ff2dcd9c-c876-4bc8-bd77-829af6f20082}" symbol="54" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 713" key="{5cc85299-b85e-4476-827b-fb60dd8662cd}" symbol="55" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 810" key="{70e5c187-d78a-4c8e-83f1-90692acb14e9}" symbol="56" label="Fjällbjörkskog"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 811" key="{8f06aa60-f599-4447-9c06-2b1b0ffcc05f}" symbol="57" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 813" key="{59ba8943-9a05-4fa0-843a-0e4714f06fb5}" symbol="58" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 1011" key="{a173117c-ef3d-40e9-bbc4-5920bf6a7caa}" symbol="59" label="Glaciär"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 1013" key="{2f518fe8-34e9-4dec-a140-f70eeb081ae1}" symbol="60" label="Sankmark, normal/svårframkomlig"/>
+          <rule scalemaxdenom="100050" filter="KKOD = 1113" key="{c2f69849-ba22-4489-adde-b0a7059ba8f0}" symbol="61" label="Sankmark, normal/svårframkomlig"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="line" name="0">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1770,7 +1770,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="1">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1789,7 +1789,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="10">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1808,18 +1808,18 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="11">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
+              <prop k="customdash_unit" v="Pixel"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="115,182,254,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
-              <prop k="line_width_unit" v="MM"/>
+              <prop k="line_width" v="0.1"/>
+              <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit" v="Pixel"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
@@ -1827,7 +1827,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="12">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1846,7 +1846,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="13">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1865,7 +1865,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="14">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1884,7 +1884,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="15">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1903,18 +1903,18 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="16">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
+              <prop k="customdash_unit" v="Pixel"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="115,182,254,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
-              <prop k="line_width_unit" v="MM"/>
+              <prop k="line_width" v="0.1"/>
+              <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit" v="Pixel"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
@@ -1922,7 +1922,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="17">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1941,7 +1941,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="18">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1960,7 +1960,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="19">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1979,7 +1979,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="2">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -1998,7 +1998,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="20">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2017,7 +2017,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="21">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2036,7 +2036,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="22">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2055,7 +2055,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="23">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2074,7 +2074,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="24">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2093,18 +2093,18 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="25">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="MM"/>
+              <prop k="customdash_unit" v="Pixel"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="118,177,19,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
-              <prop k="line_width_unit" v="MM"/>
+              <prop k="line_width" v="0.1"/>
+              <prop k="line_width_unit" v="Pixel"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
+              <prop k="offset_unit" v="Pixel"/>
               <prop k="use_custom_dash" v="0"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
@@ -2112,7 +2112,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="26">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2131,7 +2131,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="27">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2150,7 +2150,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="28">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2169,7 +2169,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="29">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2188,7 +2188,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="3">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2207,7 +2207,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="30">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2226,7 +2226,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="31">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2245,7 +2245,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="32">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2264,7 +2264,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="33">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2283,7 +2283,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="34">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2302,7 +2302,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="35">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2321,7 +2321,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="36">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2340,7 +2340,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="37">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2359,7 +2359,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="38">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2378,7 +2378,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="39">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2397,7 +2397,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="4">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2416,7 +2416,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="40">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2435,7 +2435,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="41">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2454,7 +2454,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="42">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2473,7 +2473,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="43">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2492,7 +2492,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="44">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2511,7 +2511,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="45">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2530,7 +2530,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="46">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2549,7 +2549,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="47">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2568,7 +2568,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="48">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2587,7 +2587,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="49">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2606,7 +2606,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="5">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2625,7 +2625,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="50">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2644,7 +2644,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="51">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2663,7 +2663,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="52">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2682,7 +2682,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="53">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2701,7 +2701,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="54">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2720,7 +2720,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="55">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2739,7 +2739,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="56">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2758,7 +2758,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="57">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2777,7 +2777,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="58">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2796,7 +2796,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="59">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2815,7 +2815,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="6">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2834,7 +2834,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="60">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2853,7 +2853,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="61">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2872,7 +2872,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="7">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2891,7 +2891,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="8">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -2910,7 +2910,7 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="line" name="9">
             <layer pass="0" class="SimpleLine" locked="0">
               <prop k="capstyle" v="square"/>
-              <prop k="customdash" v="0"/>
+              <prop k="customdash" v=""/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
@@ -3189,7 +3189,7 @@ def my_form_open(dialog, layer, feature):
         <default field="OUTPUT" expression=""/>
         <default field="_MATCHED_R" expression=""/>
       </defaults>
-      <previewExpression></previewExpression>
+      <previewExpression>COALESCE( "KKOD", '&lt;NULL>' )</previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>FMIS_Sverige_SWEREF_point20170310100251432</id>
@@ -3818,8 +3818,8 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{bc5e1645-970c-4578-80e8-ad61a7e83832}">
-          <rule filter="STATUS = 'Befintlig'" key="{30f801b9-0640-4d5e-bd63-faa2b6657159}" symbol="0" label="Järnväg - befintlig station för resandeutbye"/>
+        <rules key="{4cd4111d-5560-40d4-a2f7-7afea4aaabb0}">
+          <rule filter="STATUS = 'Befintlig'" key="{513fa901-491e-42ec-b0e4-497ec29ec124}" symbol="0" label="Järnväg - befintlig station för resandeutbye"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
@@ -3831,16 +3831,16 @@ def my_form_open(dialog, layer, feature):
               <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="78,78,78,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
+              <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="7"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
             <layer pass="0" class="SimpleMarker" locked="0">
@@ -3851,16 +3851,16 @@ def my_form_open(dialog, layer, feature):
               <prop k="name" v="circle"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="0,0,0,255"/>
               <prop k="outline_style" v="no"/>
               <prop k="outline_width" v="0"/>
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
+              <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
               <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
