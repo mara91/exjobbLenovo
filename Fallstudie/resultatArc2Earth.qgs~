@@ -8,43 +8,40 @@
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="FMIS_Sverige_SWEREF_point20170310100251432" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/raa_fornminnen/FMIS_Sverige_SWEREF_point.shp" name="FMIS_Sverige_SWEREF_point">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="Bebyggelsesymboler">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/trafikverket_riksintressen/JarnvagStationer.shp" name="Jarnvag___befintlig_station_for_resandeutbyte">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggelsesymboler20170310100246160" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/bs_riks.shp" name="Bebyggelsesymboler">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Begransningslinjer_for_markslag20170310100249408" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/ml_riks.shp" name="Begransningslinjer_for_markslag">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="Vagar">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Text__punkter20170310100318608" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/tx_riks.shp" name="Text__punkter">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp" name="Riksintresse_Naturvard__MB_36">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_Riksintresse_Kulturmiljovard">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_Riksintresse_Rorligt_friluftsliv__42">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_Riksintresse_Hogexploaterad_kust__44">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="al_riks20170324143323804" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/al_riks.shp" name="al_riks">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Kraftledningar20170310100258072" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/kl_riks.shp" name="Kraftledningar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Jordart__grundlager20170310100255192" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/sgu_jordartskarta1m/jordarter_1miljon.shp" name="Jordart__grundlager">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Vagar20170310100322048" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_vk/vl_riks.shp" name="Vagar">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/mb_riks.shp" name="Bebyggd_mark">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Rorligt_friluftsliv_MB4kap2.shp" name="LST_Riksintresse_Rorligt_friluftsliv__42">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="RAA_Riksintresse_Kulturmiljovard20170313135836866" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RAA_RI_Kulturmiljovard_MB3KAP6.shp" name="RAA_Riksintresse_Kulturmiljovard">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/LST_RI_Hogexploateradkust_MB4kap4.shp" name="LST_Riksintresse_Hogexploaterad_kust__44">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="Riksintresse_Naturvard__MB_3620170310100314512" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lansstyrelsen_riksintressen/RI_naturvard_MB_3kap6.shp" name="Riksintresse_Naturvard__MB_36">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Unchecked" id="Bebyggd_mark20170310100243985" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/lm_tk/mb_riks.shp" name="Bebyggd_mark">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="Jordart__grundlager20170310100255192" source="C:/Users/Användaren/Documents/GitHub/exjobbLenovo/Fallstudie/ut/sgu_jordartskarta1m/jordarter_1miljon.shp" name="Jordart__grundlager">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -52,10 +49,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>355626.30661548511125147</xmin>
-      <ymin>6149079.93823226448148489</ymin>
-      <xmax>396815.23613925115205348</xmax>
-      <ymax>6191720.14778073783963919</ymax>
+      <xmin>360782.21577047335449606</xmin>
+      <ymin>6152130.39694896712899208</ymin>
+      <xmax>399542.6835488808574155</xmax>
+      <ymax>6172838.5357528030872345</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>0</projections>
@@ -86,7 +83,6 @@
       <item>LST_Riksintresse_Hogexploaterad_kust__4420170310100303529</item>
       <item>LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241</item>
       <item>Riksintresse_Naturvard__MB_3620170310100314512</item>
-      <item>Text__punkter20170310100318608</item>
       <item>Vagar20170310100322048</item>
       <item>RAA_Riksintresse_Kulturmiljovard20170313135836866</item>
       <item>al_riks20170324143323804</item>
@@ -98,14 +94,14 @@
         <legendlayerfile isInOverview="0" layerid="FMIS_Sverige_SWEREF_point20170310100251432" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Bebyggelsesymboler" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
-      </filegroup>
-    </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Jarnvag___befintlig_station_for_resandeutbyte" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Jarnvag___befintlig_station_for_resandeutbyte20170310100253353" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Bebyggelsesymboler" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Bebyggelsesymboler20170310100246160" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Begransningslinjer_for_markslag" showFeatureCount="0">
@@ -113,39 +109,9 @@
         <legendlayerfile isInOverview="0" layerid="Begransningslinjer_for_markslag20170310100249408" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="al_riks" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="al_riks" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="al_riks20170324143323804" visible="1"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Vagar" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Vagar20170310100322048" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Text__punkter" showFeatureCount="0">
-      <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Text__punkter20170310100318608" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Riksintresse_Naturvard__MB_36" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Riksintresse_Naturvard__MB_3620170310100314512" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="RAA_Riksintresse_Kulturmiljovard" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="RAA_Riksintresse_Kulturmiljovard20170313135836866" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LST_Riksintresse_Rorligt_friluftsliv__42" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LST_Riksintresse_Hogexploaterad_kust__44" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="al_riks20170324143323804" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Kraftledningar" showFeatureCount="0">
@@ -153,14 +119,39 @@
         <legendlayerfile isInOverview="0" layerid="Kraftledningar20170310100258072" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Jordart__grundlager" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Vagar" showFeatureCount="0">
       <filegroup open="false" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Jordart__grundlager20170310100255192" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="Vagar20170310100322048" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Bebyggd_mark" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LST_Riksintresse_Rorligt_friluftsliv__42" showFeatureCount="0">
       <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="RAA_Riksintresse_Kulturmiljovard" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="RAA_Riksintresse_Kulturmiljovard20170313135836866" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="LST_Riksintresse_Hogexploaterad_kust__44" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="LST_Riksintresse_Hogexploaterad_kust__4420170310100303529" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Riksintresse_Naturvard__MB_36" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Riksintresse_Naturvard__MB_3620170310100314512" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Bebyggd_mark" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
         <legendlayerfile isInOverview="0" layerid="Bebyggd_mark20170310100243985" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="Jordart__grundlager" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Jordart__grundlager20170310100255192" visible="1"/>
       </filegroup>
     </legendlayer>
   </legend>
@@ -221,12 +212,12 @@
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{d9bc408e-c2eb-4eaa-a16e-3299907bbc04}">
-          <rule filter="KKOD = 12" key="{d68fab50-acfa-4d33-b8d5-68856d671fa8}" symbol="0" label="Sluten bebyggelse"/>
-          <rule filter="KKOD = 13" key="{bf8907f3-12cd-44b9-978d-6e4232bc2d89}" symbol="1" label="Hög bebyggelse"/>
-          <rule filter="KKOD = 14" key="{02663d04-e2b4-47f8-86d2-264f578ac1a8}" symbol="2" label="Låg bebyggelse"/>
-          <rule filter="KKOD = 15" key="{d42ca72b-af7b-41fe-b1f4-6a90466b583a}" symbol="3" label="Industriområde"/>
-          <rule filter="KKOD = 16" key="{b6082d37-8b3d-414f-9d94-c065e46a49ea}" symbol="4" label="Fritidsbebyggelse"/>
+        <rules key="{ada1d05f-71ad-4857-890a-421973ff9f99}">
+          <rule filter="KKOD = 12" key="{4e857709-a758-45a1-b58e-688ae264654d}" symbol="0" label="Sluten bebyggelse"/>
+          <rule filter="KKOD = 13" key="{d4750db2-62ad-4594-89cc-57e3a1304e4b}" symbol="1" label="HÃ¶g bebyggelse"/>
+          <rule filter="KKOD = 14" key="{1a0abbc8-feb3-444a-b8b4-10d8e8cf7b99}" symbol="2" label="LÃ¥g bebyggelse"/>
+          <rule filter="KKOD = 15" key="{75bb6b99-091c-4d74-8081-23f44f424176}" symbol="3" label="IndustriomrÃ¥de"/>
+          <rule filter="KKOD = 16" key="{8112621e-5cc9-4a79-a914-07ddf267be00}" symbol="4" label="Fritidsbebyggelse"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -237,9 +228,9 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="1"/>
+              <prop k="outline_color" v="192,192,192,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
@@ -252,9 +243,9 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="1"/>
+              <prop k="outline_color" v="192,192,192,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
@@ -267,9 +258,9 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="1"/>
+              <prop k="outline_color" v="192,192,192,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
@@ -282,9 +273,9 @@
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="1"/>
+              <prop k="outline_color" v="192,192,192,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
@@ -303,6 +294,23 @@
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="no"/>
             </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v=""/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="192,192,192,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="color" v="128,128,128,255"/>
@@ -315,6 +323,23 @@
               <prop k="outline_width" v="1"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="no"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v=""/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="192,192,192,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
           </symbol>
         </symbols>
@@ -1683,69 +1708,69 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{f948d97c-e55e-4ac4-9e63-2033237c28fa}">
-          <rule scalemaxdenom="100050" filter="KKOD = 1" key="{435bf204-045f-43a3-81c0-d20dc2a26867}" symbol="0" label="Vatten"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 2" key="{25a48525-148f-4936-bb34-a4df49c510fa}" symbol="1" label="Bebyggelseområde"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 3" key="{188a0c05-53e5-428c-81b4-fcaf261e489e}" symbol="2" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 4" key="{2a7ce1e5-ddbd-4993-95bd-2cee77d77cb4}" symbol="3" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 5" key="{ff7bb92a-ec92-4eb6-a054-ef1efbcac95c}" symbol="4" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 6" key="{cb649e59-0d58-46dc-95d8-48f11e206502}" symbol="5" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 7" key="{100275c7-d3b2-4ff4-8e0d-3e7799af6a25}" symbol="6" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 8" key="{f1887477-806c-413d-875f-c9262b95833c}" symbol="7" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 10" key="{e57b6346-518d-4733-9d36-d590610f21d3}" symbol="8" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 11" key="{8e646290-5b40-4c4b-87eb-f6bb4383457b}" symbol="9" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 13" key="{fcaa3734-5120-4a10-8b58-9d9c2339ad5f}" symbol="10" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 102" key="{684bd642-8739-4a46-a4fb-31c2cf2d74cc}" symbol="11" scalemindenom="1000" label="Bebyggelseområde"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 103" key="{8524956c-3c7b-48f9-8fd6-351b429b4bad}" symbol="12" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 104" key="{3ad290ec-79b3-4f0d-8f2d-a8a7ab423d91}" symbol="13" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 105" key="{9dba0f06-9eb7-46e8-8f0c-3f2a7ae85b03}" symbol="14" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 106" key="{7d9d3112-7802-41e0-839d-599a37a0f6ee}" symbol="15" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 107" key="{b24b8a9e-2474-4dc5-82b5-865cac3c3ae0}" symbol="16" scalemindenom="1000" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 108" key="{85b3a4f5-464a-41d8-956f-490c62506d5a}" symbol="17" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 110" key="{85ddb412-1cf6-44b7-83f6-ea2389711b89}" symbol="18" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 111" key="{d2ce5157-b1c4-4114-ae78-fed833530e57}" symbol="19" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 113" key="{b49f9202-4ff5-4689-9e3e-f298d76634e0}" symbol="20" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 203" key="{0f892620-19a2-491a-9591-2722e42639d0}" symbol="21" label="Skog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 204" key="{d4734668-2a84-4014-a446-c7f500e6780a}" symbol="22" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 205" key="{4f62f2d7-f815-420f-8295-08a145dba4db}" symbol="23" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 206" key="{a3d453ab-99aa-4496-b2db-7743c77e3a2a}" symbol="24" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 207" key="{d61ac87d-3a4a-48c6-8c0a-1569e94d8f3e}" symbol="25" scalemindenom="1000" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 208" key="{d12062e9-cfce-4aad-824e-cd950cac1d52}" symbol="26" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 210" key="{800fa32f-8e1c-4120-a9cc-58e558598df1}" symbol="27" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 213" key="{7182caf4-f263-4437-a556-700bebf1f4a1}" symbol="28" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 304" key="{af6e96c2-57d2-4787-8a57-85261431d93a}" symbol="29" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 305" key="{9b59e696-5f74-4272-a16c-8f611f0f178d}" symbol="30" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 306" key="{1a25cbea-69ff-452c-aa2d-385a1382a018}" symbol="31" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 307" key="{6b8b47f6-1646-4f66-8d74-65354718a176}" symbol="32" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 308" key="{675cb2b3-cdb1-4b90-86bc-f49f07a2ca02}" symbol="33" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 310" key="{587dde62-392c-453e-b549-ce125d4323ac}" symbol="34" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 313" key="{bfed32e3-2d4f-42fd-9a52-1cda2b002fab}" symbol="35" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 405" key="{ce4c81e6-da1b-4afb-871e-0ca1655ce2e7}" symbol="36" label="Sankmark, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 406" key="{e949ea0f-e468-41e1-bc44-16b7f6426926}" symbol="37" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 407" key="{1eba4abc-53d3-403a-8ea6-4a7441718943}" symbol="38" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 408" key="{fb4591f0-32e3-4c9f-8359-b26f5499c55b}" symbol="39" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 410" key="{f22cb8fc-540c-4c17-a1d7-6658089c762f}" symbol="40" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 411" key="{a64fc1cf-0f02-441b-b6c1-f2e47aeddd9c}" symbol="41" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 413" key="{378f5d06-43f6-4ffd-b773-4fe061020e57}" symbol="42" label="Sankmark, svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 506" key="{b0f94840-c0f0-466a-88c5-8579f2a3b59d}" symbol="43" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 507" key="{fb3d7241-b121-4d9d-8f7b-e38cda30042a}" symbol="44" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 508" key="{3bdebcbc-ee5c-4cf2-92f4-e680931b3da2}" symbol="45" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 510" key="{b000280a-fcfb-4874-9ab2-115fe307ef06}" symbol="46" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 511" key="{f865af88-8d59-4465-9d8d-786f19e3bad0}" symbol="47" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 513" key="{67b80c76-4a41-4e73-a3ee-490f61216870}" symbol="48" label="Sankmar, normal, öppen"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 607" key="{49126426-afaa-4960-a136-ff053883bbe6}" symbol="49" label="Öppen mark"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 608" key="{5fa97e1d-f8a2-4178-9b0d-b7be3e63ca49}" symbol="50" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 610" key="{ff691a89-d101-4f40-9aef-da89abf5b8d2}" symbol="51" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 613" key="{1c2b9a41-2c91-466b-8249-5fa7a7914235}" symbol="52" label="Sankmark, normal, skogklädd"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 708" key="{e39eeac0-a30d-4588-8f92-215709a7b2e3}" symbol="53" label="Kalfjäll"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 710" key="{7b34f8c8-f299-4a8a-b51c-e80d0ab68670}" symbol="54" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 713" key="{ced691ca-da5a-40bb-8a0d-dd52a5a70da6}" symbol="55" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 810" key="{fbc141b0-51bc-489b-965d-328a66b9dcac}" symbol="56" label="Fjällbjörkskog"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 811" key="{28b29643-ffbc-4324-be8d-9d679c5d9f4e}" symbol="57" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 813" key="{56d36679-8c88-4eb1-96bd-e55471867b7d}" symbol="58" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1011" key="{9863fe41-1df3-47e6-a6c4-9346619fb0bd}" symbol="59" label="Glaciär"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1013" key="{4e4cf3c3-acf8-48d4-b63f-a756fa13f380}" symbol="60" label="Sankmark, normal/svårframkomlig"/>
-          <rule scalemaxdenom="100050" filter="KKOD = 1113" key="{8eca0320-2ac6-4ee9-a029-9deb1a8b788f}" symbol="61" label="Sankmark, normal/svårframkomlig"/>
+        <rules key="{6b8c59bb-a86e-4214-a460-63972dc46301}">
+          <rule filter="KKOD = 1" key="{8a50fb03-bd8f-40fe-80f1-6a53573d9edb}" symbol="0" label="Vatten"/>
+          <rule filter="KKOD = 2" key="{7a1e0ee2-96df-4047-9acc-da40d2a323ed}" symbol="1" label="BebyggelseomrÃ¥de"/>
+          <rule filter="KKOD = 3" key="{d130e034-9942-42c5-a2a3-09b100ea7de3}" symbol="2" label="Skog"/>
+          <rule filter="KKOD = 4" key="{c827a55d-77eb-4d04-9d7b-fd4e35aff6d1}" symbol="3" label="Sankmark, svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 5" key="{d8908a4f-3c5f-4f04-8479-ed666942ab97}" symbol="4" label="Sankmark, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 6" key="{5258e4a0-6740-49a7-bfa9-0368adfff2d3}" symbol="5" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 7" key="{714e5028-054d-4346-b977-ad0a2fe8a9e0}" symbol="6" label="Ãppen mark"/>
+          <rule filter="KKOD = 8" key="{d2fa5704-a4fa-474a-bc51-d1ba83d7dd3b}" symbol="7" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 10" key="{cd80d10e-c0e3-4331-bad7-97547e7de9be}" symbol="8" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 11" key="{3a31390d-3054-40a9-8313-378a4d0221f2}" symbol="9" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 13" key="{17529680-6fab-4bd7-a510-efa37e622912}" symbol="10" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 102" key="{ac514a91-57fc-4c06-804b-abce4e1331d9}" symbol="11" label="BebyggelseomrÃ¥de"/>
+          <rule filter="KKOD = 103" key="{286195da-dab4-4b3c-a566-e3fc59f03535}" symbol="12" label="Skog"/>
+          <rule filter="KKOD = 104" key="{77fb8107-db6d-4498-b115-94806e6c7cee}" symbol="13" label="Sankmark, svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 105" key="{67fe5750-cf43-41a7-984a-8d0c1878b750}" symbol="14" label="Sankmark, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 106" key="{531cf44a-27fc-43dc-b18c-a14a45605a3f}" symbol="15" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 107" key="{b8a5483c-615f-4f1e-9634-742961e56aaa}" symbol="16" label="Ãppen mark"/>
+          <rule filter="KKOD = 108" key="{87ae0cac-8e4e-4017-b354-b7c6e488fbd4}" symbol="17" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 110" key="{0f9e465a-44cd-4e30-bf52-afb355bdff98}" symbol="18" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 111" key="{6f867233-0e85-46dc-bf25-e443bcaef443}" symbol="19" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 113" key="{083008ce-f260-4fee-9380-f0a43a8d0991}" symbol="20" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 203" key="{ab34990a-06c8-4a75-b8e6-1a985da8a543}" symbol="21" label="Skog"/>
+          <rule filter="KKOD = 204" key="{47aacfc0-958b-4691-aa2e-82986172b1dd}" symbol="22" label="Sankmark, svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 205" key="{ae063223-dcd4-43a7-ba3c-d335de5e7889}" symbol="23" label="Sankmark, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 206" key="{c93095f3-534b-4964-afc0-fff2b3aad9d5}" symbol="24" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 207" key="{faf175fb-a74c-4b03-aa50-8eccdca705d5}" symbol="25" label="Ãppen mark"/>
+          <rule filter="KKOD = 208" key="{47c5234e-5e8a-486d-b52f-1e54a6cf09e2}" symbol="26" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 210" key="{67fd3e63-c70f-4311-b58b-2d9e66f2c12e}" symbol="27" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 213" key="{30f1a347-afbd-4036-9e96-98023a5efb4e}" symbol="28" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 304" key="{cbdbf6a0-e8a0-4898-825c-ff41f2e633bc}" symbol="29" label="Sankmark, svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 305" key="{1031a7b4-3044-4f64-9953-1c325a214676}" symbol="30" label="Sankmark, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 306" key="{61515651-8e45-4e7b-8479-85a1e14577ad}" symbol="31" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 307" key="{f3f5d899-c484-4d2c-b4da-4fc25baed1a9}" symbol="32" label="Ãppen mark"/>
+          <rule filter="KKOD = 308" key="{7dbd3e18-b5aa-4e83-b3f4-db050f0801f3}" symbol="33" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 310" key="{ee79ed05-3059-4dd9-acb0-df338388cbb3}" symbol="34" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 313" key="{95dfc1de-ef62-4c7a-8910-3fd18762cedb}" symbol="35" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 405" key="{4c99b077-ae41-485d-a983-bda5428fb64c}" symbol="36" label="Sankmark, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 406" key="{fad1ad11-a045-4a83-b689-2017e7385e1c}" symbol="37" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 407" key="{9691854c-1c2d-48b1-bb26-9c6c864b5251}" symbol="38" label="Ãppen mark"/>
+          <rule filter="KKOD = 408" key="{d6d73eda-03cd-4752-b8b9-15aa775c62fd}" symbol="39" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 410" key="{133a9f23-71c8-45b3-84e2-f984ed42cda6}" symbol="40" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 411" key="{5a4db75d-1c6f-482a-8365-558c255414b5}" symbol="41" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 413" key="{0888bd35-2461-48b9-b492-3f0927b3c821}" symbol="42" label="Sankmark, svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 506" key="{8fdc6f6c-4518-4eab-8e07-16dcac10ee9d}" symbol="43" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 507" key="{05fef8fa-641e-46f7-b1b4-da19ec5d13b1}" symbol="44" label="Ãppen mark"/>
+          <rule filter="KKOD = 508" key="{93ea50bd-256e-40aa-960f-43d2d9057f27}" symbol="45" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 510" key="{407a5583-41ba-44e5-8330-9c48b7eabd94}" symbol="46" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 511" key="{5e314c2a-7657-4ade-b661-b1f19d22824c}" symbol="47" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 513" key="{c3a2997a-ed41-4bc7-ba3d-8e5f79fd5b28}" symbol="48" label="Sankmar, normal, Ã¶ppen"/>
+          <rule filter="KKOD = 607" key="{3635f58b-0ce4-415d-8e9a-407ada3f7c12}" symbol="49" label="Ãppen mark"/>
+          <rule filter="KKOD = 608" key="{1190b885-f842-40da-86be-3849d8b9cd1e}" symbol="50" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 610" key="{f095c5f2-d123-474a-b6b5-956ace346922}" symbol="51" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 613" key="{3f682b15-ce92-404f-9d33-b66a6d33970a}" symbol="52" label="Sankmark, normal, skogklÃ¤dd"/>
+          <rule filter="KKOD = 708" key="{eb5aa6a4-fa62-4a24-8def-69bea22ef3b1}" symbol="53" label="KalfjÃ¤ll"/>
+          <rule filter="KKOD = 710" key="{c325e865-1005-42db-ba76-8b1ce16a2eea}" symbol="54" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 713" key="{3c1d3681-f49f-41f4-9d9a-de0e774681a6}" symbol="55" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 810" key="{ee6ca7e7-1ab5-4954-b562-816010b7359a}" symbol="56" label="FjÃ¤llbjÃ¶rkskog"/>
+          <rule filter="KKOD = 811" key="{0a7bf401-3341-444d-89af-7379eefbb88b}" symbol="57" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 813" key="{beae438e-3b63-4510-9787-8a3c9cf41add}" symbol="58" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 1011" key="{e9813c2b-d32e-433e-9041-944494c4dd05}" symbol="59" label="GlaciÃ¤r"/>
+          <rule filter="KKOD = 1013" key="{cc5f3b16-dae8-4f1a-a19c-cc0dfabe8fe2}" symbol="60" label="Sankmark, normal/svÃ¥rframkomlig"/>
+          <rule filter="KKOD = 1113" key="{1e283030-d01d-4c2e-a8af-46eeabfc8cc6}" symbol="61" label="Sankmark, normal/svÃ¥rframkomlig"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="line" name="0">
@@ -1815,7 +1840,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="115,182,254,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
+              <prop k="line_width" v="0.1"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -1910,7 +1935,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="115,182,254,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
+              <prop k="line_width" v="0.1"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -2100,7 +2125,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="joinstyle" v="bevel"/>
               <prop k="line_color" v="118,177,19,255"/>
               <prop k="line_style" v="solid"/>
-              <prop k="line_width" v="0.25"/>
+              <prop k="line_width" v="0.1"/>
               <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -3354,9 +3379,9 @@ def my_form_open(dialog, layer, feature):
               <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="4"/>
+              <prop k="size" v="6"/>
               <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
+              <prop k="size_unit" v="MM"/>
               <prop k="vertical_anchor_point" v="1"/>
             </layer>
           </symbol>
@@ -3721,6 +3746,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>372286.58210000023245811</xmin>
+        <ymin>6156714.70089999958872795</ymin>
+        <xmax>382783.00800000037997961</xmax>
+        <ymax>6171347.8494000006467104</ymax>
+      </extent>
       <id>Jarnvag___befintlig_station_for_resandeutbyte20170310100253353</id>
       <datasource>./ut/trafikverket_riksintressen/JarnvagStationer.shp</datasource>
       <keywordList>
@@ -3818,53 +3849,10 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{bc5e1645-970c-4578-80e8-ad61a7e83832}">
-          <rule filter="STATUS = 'Befintlig'" key="{30f801b9-0640-4d5e-bd63-faa2b6657159}" symbol="0" label="Järnväg - befintlig station för resandeutbye"/>
+        <rules key="{8f332151-b0e3-421f-8d66-ce09769d0f14}">
+          <rule filter="STATUS = 'Befintlig'" key="{6ca90fd7-a957-462c-8942-fb6ca97a8177}" label="JÃ¤rnvÃ¤g - befintlig station fÃ¶r resandeutbye"/>
         </rules>
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="255,255,255,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
-              <prop k="outline_color" v="78,78,78,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="7"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="78,78,78,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="Pixel"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="6"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="Pixel"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-        </symbols>
+        <symbols/>
       </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
@@ -4248,17 +4236,17 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{615053e1-6b79-4a1d-a906-b75740b9ff9a}">
-          <rule filter="SYMBOL = 114" key="{a548af88-67a8-4aea-aff6-53c42058ee3e}" symbol="0" label="Torv"/>
-          <rule filter="SYMBOL = 82" key="{59741ff3-cad8-4ae5-af12-fedc00057b94}" symbol="1" label="Lera--silt"/>
-          <rule filter="SYMBOL = 8" key="{621f72cb-9607-404f-8c33-2aa021ffe501}" symbol="2" label="Postglacial sand--grus"/>
-          <rule filter="SYMBOL = 16" key="{482872d2-a753-447b-bf8f-80576b0362ba}" symbol="3" label="Isälvssediment"/>
-          <rule filter="SYMBOL = 926" key="{3d4d84a3-95a3-4030-aded-02329ecf3307}" symbol="4" label="Moränlera eller lerig morän"/>
-          <rule filter="SYMBOL = 30" key="{6d3c64d2-8f97-4b3a-b6ab-305f302024fc}" symbol="5" label="Morän"/>
-          <rule filter="SYMBOL = 919" key="{a184840c-1a24-4add-a9ea-69078f8c3191}" symbol="6" label="Morän eller vittringsjord"/>
-          <rule filter="SYMBOL = 32" key="{87387014-9570-4600-aa01-743d24144d91}" symbol="7" label="Berg"/>
-          <rule filter="SYMBOL = 911" key="{fbb706b7-1582-41bf-b25c-fd1e8ac11c8c}" symbol="8" label="Glaciär"/>
-          <rule filter="SYMBOL = 26" key="{412e1379-013a-47d1-be3e-91e77acbaafc}" symbol="9" label="Vatten"/>
+        <rules key="{b491ac9d-22ca-41cf-88ef-d35ec6c5de11}">
+          <rule filter="SYMBOL = 114" key="{f4851d5a-b919-4cc7-bec8-2255367ffc74}" symbol="0" label="Torv"/>
+          <rule filter="SYMBOL = 82" key="{89a9c5e7-0901-443a-aef5-f73757870fc2}" symbol="1" label="Lera--silt"/>
+          <rule filter="SYMBOL = 8" key="{32387c74-a36a-4f41-bd94-85b59005417b}" symbol="2" label="Postglacial sand--grus"/>
+          <rule filter="SYMBOL = 16" key="{f8bafa0c-ca8a-4b4f-8abb-dc11a59e4875}" symbol="3" label="IsÃ¤lvssediment"/>
+          <rule filter="SYMBOL = 926" key="{f32d3cc3-974a-4caa-ba99-c4ef2b03cdfe}" symbol="4" label="MorÃ¤nlera eller lerig morÃ¤n"/>
+          <rule filter="SYMBOL = 30" key="{881a0ba6-8c72-4201-a3b6-21473b82b7b0}" symbol="5" label="MorÃ¤n"/>
+          <rule filter="SYMBOL = 919" key="{7493652a-dff1-4078-9e72-af604bedc308}" symbol="6" label="MorÃ¤n eller vittringsjord"/>
+          <rule filter="SYMBOL = 32" key="{3890ecef-f38a-4599-aa85-f13cf84c7ad4}" symbol="7" label="Berg"/>
+          <rule filter="SYMBOL = 911" key="{b151a867-5c30-44c6-bad6-f65a1b38ba81}" symbol="8" label="GlaciÃ¤r"/>
+          <rule filter="SYMBOL = 26" key="{eee2d003-8fbd-4b57-bca7-dec59ea70029}" symbol="9" label="Vatten"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
@@ -4329,15 +4317,15 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="no"/>
-              <prop k="outline_width" v="1"/>
+              <prop k="outline_color" v="240,240,240,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.25"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="solid"/>
             </layer>
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="255,255,255,255"/>
+              <prop k="color" v="128,128,128,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -6154,10 +6142,27 @@ def my_form_open(dialog, layer, feature):
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="dash"/>
+              <prop k="outline_style" v="no"/>
               <prop k="outline_width" v="1"/>
               <prop k="outline_width_unit" v="MM"/>
               <prop k="style" v="no"/>
+            </layer>
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="1;6"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="255,0,0,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="7"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="1"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
           </symbol>
         </symbols>
@@ -6556,16 +6561,16 @@ def my_form_open(dialog, layer, feature):
           <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
             <layer pass="0" class="SimpleFill" locked="0">
               <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="128,128,128,255"/>
+              <prop k="color" v="0,200,0,255"/>
               <prop k="joinstyle" v="bevel"/>
               <prop k="offset" v="0,0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="outline_color" v="0,200,0,255"/>
               <prop k="outline_style" v="solid"/>
               <prop k="outline_width" v="2"/>
-              <prop k="outline_width_unit" v="Pixel"/>
-              <prop k="style" v="no"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
             </layer>
           </symbol>
         </symbols>
@@ -6874,428 +6879,6 @@ def my_form_open(dialog, layer, feature):
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
-    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>Text__punkter20170310100318608</id>
-      <datasource>./ut/lm_vk/tx_riks.shp</datasource>
-      <keywordList>
-        <value></value>
-      </keywordList>
-      <layername>Text__punkter</layername>
-      <srs>
-        <spatialrefsys>
-          <proj4>+proj=utm +zone=33 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
-          <srsid>971</srsid>
-          <srid>3006</srid>
-          <authid>EPSG:3006</authid>
-          <description>SWEREF99 TM</description>
-          <projectionacronym>utm</projectionacronym>
-          <ellipsoidacronym>GRS80</ellipsoidacronym>
-          <geographicflag>false</geographicflag>
-        </spatialrefsys>
-      </srs>
-      <provider encoding="System">ogr</provider>
-      <vectorjoins/>
-      <layerDependencies/>
-      <expressionfields/>
-      <map-layer-style-manager current="">
-        <map-layer-style name=""/>
-      </map-layer-style-manager>
-      <edittypes>
-        <edittype widgetv2type="TextEdit" name="TSPARR">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="KKOD">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="THEMES">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="TK_UPDATE">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="TEXTTYP">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SK1M_SPECI">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="KATEGORI">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="TJUST">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="TEXT">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="SERIAL">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="OUTPUT">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="TRIKT">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="_MATCHED_R">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-      </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{201c8c05-b387-423c-878d-a05850f718db}">
-          <rule scalemaxdenom="300000" key="{ea3433a0-7ab2-49b8-930b-00814f871809}" symbol="0" scalemindenom="100050"/>
-          <rule scalemaxdenom="300000" checkstate="0" key="{f7b868f9-9989-47ad-944b-939a00bfdf37}" scalemindenom="100050"/>
-          <rule scalemaxdenom="300000" filter="&quot;KATEGORI&quot; = 'Tätort 10000-49999 inv.' OR (&quot;KATEGORI&quot; = 'Tätort 200-499 inv., större stadsdel' OR (&quot;KATEGORI&quot; = 'Tätort 2000-9999 inv.' OR (&quot;KATEGORI&quot; = 'Tätort 500-1999 inv.' OR &quot;KATEGORI&quot; = 'Tätort 50000 och fler inv.')))" key="{0d2ca93d-e457-46e0-80e4-47c72232aadc}" scalemindenom="100050"/>
-          <rule scalemaxdenom="300000" filter="KATEGORI = 'Bebyggelse, by, stadsdel' OR (KATEGORI = 'Bebyggelse, by, större gård, mindre stadsdel' OR (KATEGORI = 'Bebyggelse, enstaka gård, hus' OR (KATEGORI = 'Bebyggelse, samhälle, samlad by' OR KATEGORI = 'Bebyggelselämning')))" key="{a6506fad-5e8a-470e-8156-abd1e0547098}" symbol="1" scalemindenom="100000"/>
-          <rule scalemaxdenom="300000" checkstate="0" filter="KATEGORI = 'Kyrka, storleksklass 1' OR KATEGORI = 'Kyrka, storleksklass 2'" key="{e3bcd3ca-36a0-436e-83d0-12b44590374b}" symbol="2" scalemindenom="100000" label="Kyrka"/>
-        </rules>
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="0">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="240,240,240,0"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="240,240,240,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="4"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="1">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="38,127,200,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-          <symbol alpha="1" clip_to_extent="1" type="marker" name="2">
-            <layer pass="0" class="SimpleMarker" locked="0">
-              <prop k="angle" v="0"/>
-              <prop k="color" v="16,186,201,255"/>
-              <prop k="horizontal_anchor_point" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="name" v="circle"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="solid"/>
-              <prop k="outline_width" v="0"/>
-              <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="scale_method" v="diameter"/>
-              <prop k="size" v="2"/>
-              <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="size_unit" v="MM"/>
-              <prop k="vertical_anchor_point" v="1"/>
-            </layer>
-          </symbol>
-        </symbols>
-      </renderer-v2>
-      <labeling type="simple"/>
-      <customproperties>
-        <property key="embeddedWidgets/count" value="0"/>
-        <property key="labeling" value="pal"/>
-        <property key="labeling/addDirectionSymbol" value="false"/>
-        <property key="labeling/angleOffset" value="0"/>
-        <property key="labeling/blendMode" value="0"/>
-        <property key="labeling/bufferBlendMode" value="0"/>
-        <property key="labeling/bufferColorA" value="255"/>
-        <property key="labeling/bufferColorB" value="255"/>
-        <property key="labeling/bufferColorG" value="255"/>
-        <property key="labeling/bufferColorR" value="255"/>
-        <property key="labeling/bufferDraw" value="false"/>
-        <property key="labeling/bufferJoinStyle" value="128"/>
-        <property key="labeling/bufferNoFill" value="false"/>
-        <property key="labeling/bufferSize" value="1"/>
-        <property key="labeling/bufferSizeInMapUnits" value="false"/>
-        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/bufferTransp" value="0"/>
-        <property key="labeling/centroidInside" value="false"/>
-        <property key="labeling/centroidWhole" value="false"/>
-        <property key="labeling/decimals" value="0"/>
-        <property key="labeling/displayAll" value="false"/>
-        <property key="labeling/dist" value="0"/>
-        <property key="labeling/distInMapUnits" value="false"/>
-        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/drawLabels" value="true"/>
-        <property key="labeling/enabled" value="true"/>
-        <property key="labeling/fieldName" value="TEXT"/>
-        <property key="labeling/fitInPolygonOnly" value="false"/>
-        <property key="labeling/fontBold" value="true"/>
-        <property key="labeling/fontCapitals" value="0"/>
-        <property key="labeling/fontFamily" value="Arial"/>
-        <property key="labeling/fontItalic" value="false"/>
-        <property key="labeling/fontLetterSpacing" value="0"/>
-        <property key="labeling/fontLimitPixelSize" value="false"/>
-        <property key="labeling/fontMaxPixelSize" value="10000"/>
-        <property key="labeling/fontMinPixelSize" value="3"/>
-        <property key="labeling/fontSize" value="13"/>
-        <property key="labeling/fontSizeInMapUnits" value="false"/>
-        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/fontStrikeout" value="false"/>
-        <property key="labeling/fontUnderline" value="false"/>
-        <property key="labeling/fontWeight" value="50"/>
-        <property key="labeling/fontWordSpacing" value="0"/>
-        <property key="labeling/formatNumbers" value="false"/>
-        <property key="labeling/isExpression" value="false"/>
-        <property key="labeling/labelOffsetInMapUnits" value="false"/>
-        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/labelPerPart" value="false"/>
-        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
-        <property key="labeling/limitNumLabels" value="false"/>
-        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
-        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
-        <property key="labeling/maxNumLabels" value="2000"/>
-        <property key="labeling/mergeLines" value="false"/>
-        <property key="labeling/minFeatureSize" value="0"/>
-        <property key="labeling/multilineAlign" value="3"/>
-        <property key="labeling/multilineHeight" value="1"/>
-        <property key="labeling/namedStyle" value="Normal"/>
-        <property key="labeling/obstacle" value="true"/>
-        <property key="labeling/obstacleFactor" value="1"/>
-        <property key="labeling/obstacleType" value="0"/>
-        <property key="labeling/offsetType" value="0"/>
-        <property key="labeling/placeDirectionSymbol" value="0"/>
-        <property key="labeling/placement" value="1"/>
-        <property key="labeling/placementFlags" value="0"/>
-        <property key="labeling/plussign" value="false"/>
-        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
-        <property key="labeling/preserveRotation" value="true"/>
-        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
-        <property key="labeling/priority" value="0"/>
-        <property key="labeling/quadOffset" value="4"/>
-        <property key="labeling/repeatDistance" value="0"/>
-        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/repeatDistanceUnit" value="1"/>
-        <property key="labeling/reverseDirectionSymbol" value="false"/>
-        <property key="labeling/rightDirectionSymbol" value=">"/>
-        <property key="labeling/scaleMax" value="10000000"/>
-        <property key="labeling/scaleMin" value="1"/>
-        <property key="labeling/scaleVisibility" value="false"/>
-        <property key="labeling/shadowBlendMode" value="6"/>
-        <property key="labeling/shadowColorB" value="0"/>
-        <property key="labeling/shadowColorG" value="0"/>
-        <property key="labeling/shadowColorR" value="0"/>
-        <property key="labeling/shadowDraw" value="false"/>
-        <property key="labeling/shadowOffsetAngle" value="135"/>
-        <property key="labeling/shadowOffsetDist" value="1"/>
-        <property key="labeling/shadowOffsetGlobal" value="true"/>
-        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowOffsetUnits" value="1"/>
-        <property key="labeling/shadowRadius" value="1.5"/>
-        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
-        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shadowRadiusUnits" value="1"/>
-        <property key="labeling/shadowScale" value="100"/>
-        <property key="labeling/shadowTransparency" value="30"/>
-        <property key="labeling/shadowUnder" value="0"/>
-        <property key="labeling/shapeBlendMode" value="0"/>
-        <property key="labeling/shapeBorderColorA" value="255"/>
-        <property key="labeling/shapeBorderColorB" value="128"/>
-        <property key="labeling/shapeBorderColorG" value="128"/>
-        <property key="labeling/shapeBorderColorR" value="128"/>
-        <property key="labeling/shapeBorderWidth" value="0"/>
-        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeBorderWidthUnits" value="1"/>
-        <property key="labeling/shapeDraw" value="false"/>
-        <property key="labeling/shapeFillColorA" value="255"/>
-        <property key="labeling/shapeFillColorB" value="255"/>
-        <property key="labeling/shapeFillColorG" value="255"/>
-        <property key="labeling/shapeFillColorR" value="255"/>
-        <property key="labeling/shapeJoinStyle" value="64"/>
-        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeOffsetUnits" value="1"/>
-        <property key="labeling/shapeOffsetX" value="0"/>
-        <property key="labeling/shapeOffsetY" value="0"/>
-        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeRadiiUnits" value="1"/>
-        <property key="labeling/shapeRadiiX" value="0"/>
-        <property key="labeling/shapeRadiiY" value="0"/>
-        <property key="labeling/shapeRotation" value="0"/>
-        <property key="labeling/shapeRotationType" value="0"/>
-        <property key="labeling/shapeSVGFile" value=""/>
-        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
-        <property key="labeling/shapeSizeType" value="0"/>
-        <property key="labeling/shapeSizeUnits" value="1"/>
-        <property key="labeling/shapeSizeX" value="0"/>
-        <property key="labeling/shapeSizeY" value="0"/>
-        <property key="labeling/shapeTransparency" value="0"/>
-        <property key="labeling/shapeType" value="0"/>
-        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
-        <property key="labeling/textColorA" value="255"/>
-        <property key="labeling/textColorB" value="0"/>
-        <property key="labeling/textColorG" value="0"/>
-        <property key="labeling/textColorR" value="0"/>
-        <property key="labeling/textTransp" value="0"/>
-        <property key="labeling/upsidedownLabels" value="0"/>
-        <property key="labeling/useSubstitutions" value="false"/>
-        <property key="labeling/wrapChar" value=""/>
-        <property key="labeling/xOffset" value="0"/>
-        <property key="labeling/yOffset" value="10"/>
-        <property key="labeling/zIndex" value="0"/>
-        <property key="variableNames"/>
-        <property key="variableValues"/>
-      </customproperties>
-      <blendMode>0</blendMode>
-      <featureBlendMode>0</featureBlendMode>
-      <layerTransparency>0</layerTransparency>
-      <displayfield>TSPARR</displayfield>
-      <label>0</label>
-      <labelattributes>
-        <label fieldname="" text="Etikett"/>
-        <family fieldname="" name="MS Shell Dlg 2"/>
-        <size fieldname="" units="pt" value="12"/>
-        <bold fieldname="" on="0"/>
-        <italic fieldname="" on="0"/>
-        <underline fieldname="" on="0"/>
-        <strikeout fieldname="" on="0"/>
-        <color fieldname="" red="0" blue="0" green="0"/>
-        <x fieldname=""/>
-        <y fieldname=""/>
-        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
-        <angle fieldname="" value="0" auto="0"/>
-        <alignment fieldname="" value="center"/>
-        <buffercolor fieldname="" red="255" blue="255" green="255"/>
-        <buffersize fieldname="" units="pt" value="1"/>
-        <bufferenabled fieldname="" on=""/>
-        <multilineenabled fieldname="" on=""/>
-        <selectedonly on=""/>
-      </labelattributes>
-      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
-          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute field="" color="#000000" label=""/>
-        </DiagramCategory>
-        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
-          <layer pass="0" class="SimpleMarker" locked="0">
-            <prop k="angle" v="0"/>
-            <prop k="color" v="255,0,0,255"/>
-            <prop k="horizontal_anchor_point" v="1"/>
-            <prop k="joinstyle" v="bevel"/>
-            <prop k="name" v="circle"/>
-            <prop k="offset" v="0,0"/>
-            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="offset_unit" v="MM"/>
-            <prop k="outline_color" v="0,0,0,255"/>
-            <prop k="outline_style" v="solid"/>
-            <prop k="outline_width" v="0"/>
-            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="outline_width_unit" v="MM"/>
-            <prop k="scale_method" v="diameter"/>
-            <prop k="size" v="2"/>
-            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
-            <prop k="size_unit" v="MM"/>
-            <prop k="vertical_anchor_point" v="1"/>
-          </layer>
-        </symbol>
-      </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform>.</annotationform>
-      <aliases>
-        <alias field="TSPARR" index="0" name=""/>
-        <alias field="KKOD" index="1" name=""/>
-        <alias field="THEMES" index="2" name=""/>
-        <alias field="TK_UPDATE" index="3" name=""/>
-        <alias field="TEXTTYP" index="4" name=""/>
-        <alias field="SK1M_SPECI" index="5" name=""/>
-        <alias field="KATEGORI" index="6" name=""/>
-        <alias field="TJUST" index="7" name=""/>
-        <alias field="TEXT" index="8" name=""/>
-        <alias field="SERIAL" index="9" name=""/>
-        <alias field="OUTPUT" index="10" name=""/>
-        <alias field="TRIKT" index="11" name=""/>
-        <alias field="_MATCHED_R" index="12" name=""/>
-      </aliases>
-      <excludeAttributesWMS/>
-      <excludeAttributesWFS/>
-      <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="&quot;KATEGORI&quot;" sortOrder="0">
-        <columns>
-          <column width="-1" hidden="0" type="field" name="TSPARR"/>
-          <column width="-1" hidden="0" type="field" name="KKOD"/>
-          <column width="-1" hidden="0" type="field" name="THEMES"/>
-          <column width="-1" hidden="0" type="field" name="TK_UPDATE"/>
-          <column width="-1" hidden="0" type="field" name="TEXTTYP"/>
-          <column width="176" hidden="0" type="field" name="KATEGORI"/>
-          <column width="-1" hidden="0" type="field" name="TJUST"/>
-          <column width="-1" hidden="0" type="field" name="TEXT"/>
-          <column width="-1" hidden="0" type="field" name="SERIAL"/>
-          <column width="-1" hidden="0" type="field" name="OUTPUT"/>
-          <column width="-1" hidden="0" type="field" name="TRIKT"/>
-          <column width="-1" hidden="0" type="field" name="_MATCHED_R"/>
-          <column width="-1" hidden="1" type="actions"/>
-        </columns>
-      </attributetableconfig>
-      <editform>.</editform>
-      <editforminit/>
-      <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath>.</editforminitfilepath>
-      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
-"""
-QGIS formulär kan ha en Pythonfunktion som anropas när formuläret öppnas.
-
-Använd denna funktion för att lägga till extra logik till dina formulär.
-
-Skriv in namnet på funktionen i fältet "Python Init function".
-Ett exempel nedan:
-"""
-from qgis.PyQt.QtWidgets import QWidget
-
-def my_form_open(dialog, layer, feature):
-	geom = feature.geometry()
-	control = dialog.findChild(QWidget, "MyLineEdit")
-]]></editforminitcode>
-      <featformsuppress>0</featformsuppress>
-      <editorlayout>generatedlayout</editorlayout>
-      <widgets/>
-      <conditionalstyles>
-        <rowstyles/>
-        <fieldstyles/>
-      </conditionalstyles>
-      <defaults>
-        <default field="TSPARR" expression=""/>
-        <default field="KKOD" expression=""/>
-        <default field="THEMES" expression=""/>
-        <default field="TK_UPDATE" expression=""/>
-        <default field="TEXTTYP" expression=""/>
-        <default field="SK1M_SPECI" expression=""/>
-        <default field="KATEGORI" expression=""/>
-        <default field="TJUST" expression=""/>
-        <default field="TEXT" expression=""/>
-        <default field="SERIAL" expression=""/>
-        <default field="OUTPUT" expression=""/>
-        <default field="TRIKT" expression=""/>
-        <default field="_MATCHED_R" expression=""/>
-      </defaults>
-      <previewExpression>COALESCE( "TSPARR", '&lt;NULL>' )</previewExpression>
-    </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Vagar20170310100322048</id>
       <datasource>./ut/lm_vk/vl_riks.shp</datasource>
@@ -7364,49 +6947,49 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{e462a31a-354a-402e-8a29-2150890a77f4}">
-          <rule filter="KKOD = 5011" key="{c4a2a137-54a9-4f3e-bff9-0871d377a5ee}" symbol="0" label="Motorväg, riksväg"/>
-          <rule filter="KKOD = 5012" key="{a1990b04-5763-43cb-9b08-9049e0721f3d}" symbol="1" label="Motortrafikled, riksväg"/>
-          <rule filter="KKOD = 5014" key="{ee9896cf-c983-44ac-8562-27e4fadf2783}" symbol="2" label="Allmän väg under byggnad, ej riksväg"/>
-          <rule filter="KKOD = 5016" key="{8e3218e6-625b-4119-a52d-c2317e4b7c8f}" symbol="3" label="Motorväg, ej riksväg"/>
-          <rule filter="KKOD = 5017" key="{14706eeb-c4a6-4eda-b578-ae19562732a0}" symbol="4" label="Motortrafikled, ej riksväg"/>
-          <rule filter="KKOD = 5018" key="{2ff6d0a4-cc3c-4020-ae3d-f6eddadd1cd4}" symbol="5" label="Allmän väg under byggnad, riksväg"/>
-          <rule filter="KKOD = 5021" key="{572d1f5c-78ef-473d-b4c8-56ce6c0a285d}" symbol="6" label="Allmän väg > 7m, klass 1, riksväg"/>
-          <rule filter="KKOD = 5022" key="{62100d25-aa0e-44a3-b30c-f6a3603c57bc}" symbol="7" label="Allmän väg > 7m, klass 1, ej riksväg"/>
-          <rule filter="KKOD = 5024" key="{429e3611-9877-46b9-87e5-d6b34744e949}" symbol="8" label="Allmän väg 5-7m, klass 2, riksväg"/>
-          <rule filter="KKOD = 5025" key="{2a90ae3d-0dd5-47b8-a81c-c11905c66610}" symbol="9" label="Allmän väg 5-7m, klass 2, ej riksväg"/>
-          <rule filter="KKOD = 5028" key="{01bdcc51-6153-4c4e-ae3b-423bb7396c4b}" symbol="10" label="Allmän väg &lt; 5m, klass 3, riksväg"/>
-          <rule filter="KKOD = 5029" key="{a7ae97e3-8270-48bb-bca4-001b37d227d3}" symbol="11" label="Allmän väg &lt; 5m, klass 3, ej riksväg"/>
-          <rule filter="KKOD = 5033" key="{a78a3f3f-87b1-42dc-a461-23bb55fa0f17}" symbol="12" label="På- och Avfartsväg, ej riksväg"/>
-          <rule filter="KKOD = 5036" key="{221bed33-6117-4fa5-9e2a-a2d1353dc8e1}" symbol="13" label="På- och Avfartsväg, riksväg"/>
-          <rule filter="KKOD = 5040" key="{f9805576-2d0c-43e9-b023-d3def78a8ce3}" symbol="14" label="Gata"/>
-          <rule filter="KKOD = 5045" key="{00e9b9e0-cd78-4ae7-8012-fbd515d932d4}" symbol="15" label="Gata större - Förbindelseled"/>
-          <rule filter="KKOD = 5060" key="{1f3cbf63-d881-472d-a20c-5aebfb51fc3c}" symbol="16" label="Enskild bättre bilväg - Matarväg"/>
-          <rule filter="KKOD = 5061" key="{8882d254-dabe-4a38-8819-741780a9b7ee}" symbol="17" label="Enskild bättre bilväg"/>
-          <rule filter="KKOD = 5070" key="{0dc0ecf7-eaa7-4b41-a24f-6d5e217e1448}" symbol="18" label="Enskild bilväg/gata, större - Matarväg"/>
-          <rule filter="KKOD = 5071" key="{62256a32-9c3e-4de1-a223-b1f491ff7eed}" symbol="19" label="Enskild bilväg"/>
-          <rule filter="KKOD = 5082" key="{585a1167-f944-4528-83c4-2c7fd2339298}" symbol="20" label="Enskild sämre bilväg"/>
-          <rule filter="KKOD = 5091" key="{0df9a177-d9f1-434d-8a87-66fa50fafd8e}" symbol="21" label="Enskild uppfartsväg"/>
-          <rule filter="KKOD = 5811" key="{84a0781f-0ae0-4764-99d8-06430694d286}" symbol="22" label="Motorväg, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5812" key="{8d61f3a7-5e60-468b-ac19-e4745cf30db4}" symbol="23" label="Motortrafikled, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5816" key="{f8f38cb0-6259-4c65-bb33-f7d654675aea}" symbol="24" label="Motorväg, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5817" key="{63185edb-3b55-4e45-a532-dccc00e3eadf}" symbol="25" label="Motortrafikled, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5821" key="{3b5898e4-175d-4f60-bf6d-575721f50ef3}" symbol="26" label="Allmän väg > 7m, klass 1, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5822" key="{7449b3b7-1562-409b-9ae2-c063ea4d3a17}" symbol="27" label="Allmän väg > 7m, klass 1, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5824" key="{4e176907-5fbd-4777-9d21-b4fc781b55fd}" symbol="28" label="Allmän väg 5-7m, klass 2, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5825" key="{10b351e8-656d-42da-8d68-0354be63cea8}" symbol="29" label="Allmän väg 5-7m, klass 2, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5828" key="{2551d1f9-3bb5-4bf1-91df-7f92ffcf9a8d}" symbol="30" label="Allmän väg &lt; 5m, klass 3, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5829" key="{602033da-3041-4001-a6af-ddd063a2946b}" symbol="31" label="Allmän väg &lt; 5m, klass 3, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5833" key="{a1c1f22a-5175-41c3-bfc1-86d7ba10f83e}" symbol="32" label="På- och Avfartsväg, ej riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5836" key="{523fe235-7274-41ca-9609-64d7a32c508e}" symbol="33" label="På- och Avfartsväg, riksväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5840" key="{c566323e-376a-421d-b7c2-e08a1ce9b7ba}" symbol="34" label="Gata, underfart/tunnel"/>
-          <rule filter="KKOD = 5845" key="{ccf7cf02-8d5b-4070-9df7-440acea2d819}" symbol="35" label="Gata större - Förbindelseled, underfart/tunnel"/>
-          <rule filter="KKOD = 5860" key="{517ff32f-b056-40a8-bb41-048b07af353b}" symbol="36" label="Enskild bättre bilväg - Matarväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5861" key="{036e833b-62cc-4c43-92bd-4e8181ab7fe6}" symbol="37" label="Enskild bättre bilväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5870" key="{eb5c06aa-c192-4ca4-bf03-cb01aa3558cb}" symbol="38" label="Enskild bilväg/gata, större - Matarväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5871" key="{d19b9396-befb-4cd3-b8a5-9f7f0ace20b1}" symbol="39" label="Enskild bilväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5882" key="{6854bfdb-ef96-4e5d-be22-1b013cdd2a88}" symbol="40" label="Enskild sämre bilväg, underfart/tunnel"/>
-          <rule filter="KKOD = 5891" key="{d1476d80-5bba-4892-a64b-91267fc3b197}" symbol="41" label="Enskild uppfartsväg, underfart/tunnel"/>
+        <rules key="{944bbc66-b6bc-41df-8187-b6caa79d2089}">
+          <rule filter="KKOD = 5011" key="{7a0d0c24-dc37-46cb-b442-21ec6e6916b8}" symbol="0" label="MotorvÃ¤g, riksvÃ¤g"/>
+          <rule filter="KKOD = 5012" key="{2eefd203-dbaf-4380-b6b5-d9f0a2020eda}" symbol="1" label="Motortrafikled, riksvÃ¤g"/>
+          <rule filter="KKOD = 5014" key="{a16be81b-e75d-4cb6-b2ea-d6682495253f}" symbol="2" label="AllmÃ¤n vÃ¤g under byggnad, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5016" key="{25c54809-7427-4073-b6a0-082cde96d0f6}" symbol="3" label="MotorvÃ¤g, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5017" key="{fe66cd8e-e6b9-4043-a3dc-775ddfbf5a2b}" symbol="4" label="Motortrafikled, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5018" key="{232b6b3a-35ee-4d0f-a616-7b768088f947}" symbol="5" label="AllmÃ¤n vÃ¤g under byggnad, riksvÃ¤g"/>
+          <rule filter="KKOD = 5021" key="{f48bddb5-47f9-4b8e-966c-a2fb893739bb}" symbol="6" label="AllmÃ¤n vÃ¤g > 7m, klass 1, riksvÃ¤g"/>
+          <rule filter="KKOD = 5022" key="{912145a9-7f80-4058-8ea4-24ed1c487693}" symbol="7" label="AllmÃ¤n vÃ¤g > 7m, klass 1, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5024" key="{65327eea-c2d2-4d43-8605-7293faa98753}" symbol="8" label="AllmÃ¤n vÃ¤g 5-7m, klass 2, riksvÃ¤g"/>
+          <rule filter="KKOD = 5025" key="{376050fb-994d-4592-ac83-1a38a51aaa8c}" symbol="9" label="AllmÃ¤n vÃ¤g 5-7m, klass 2, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5028" key="{53323620-1ead-4ef7-b132-171a214d7ac6}" symbol="10" label="AllmÃ¤n vÃ¤g &lt; 5m, klass 3, riksvÃ¤g"/>
+          <rule filter="KKOD = 5029" key="{21c49931-5c5f-43f8-bf82-aa8c11c25e68}" symbol="11" label="AllmÃ¤n vÃ¤g &lt; 5m, klass 3, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5033" key="{7adf1ccb-b9d2-423f-9fac-9a885685a01e}" symbol="12" label="PÃ¥- och AvfartsvÃ¤g, ej riksvÃ¤g"/>
+          <rule filter="KKOD = 5036" key="{2df0cfb6-68c4-4cf5-a917-1b8c235a578f}" symbol="13" label="PÃ¥- och AvfartsvÃ¤g, riksvÃ¤g"/>
+          <rule filter="KKOD = 5040" key="{2e4ba92c-bc73-46d2-8c5e-3aaa279029fc}" symbol="14" label="Gata"/>
+          <rule filter="KKOD = 5045" key="{31c8473a-2d4b-4f37-b606-26b5cb60cf52}" symbol="15" label="Gata stÃ¶rre - FÃ¶rbindelseled"/>
+          <rule filter="KKOD = 5060" key="{ea2b23cd-d89a-4da4-a75f-a30ab8597437}" symbol="16" label="Enskild bÃ¤ttre bilvÃ¤g - MatarvÃ¤g"/>
+          <rule filter="KKOD = 5061" key="{407ef78b-95c9-466f-988e-7e6e7a68e944}" symbol="17" label="Enskild bÃ¤ttre bilvÃ¤g"/>
+          <rule filter="KKOD = 5070" key="{a3fd6cc1-0b5b-4aef-abe6-11e919e910fa}" symbol="18" label="Enskild bilvÃ¤g/gata, stÃ¶rre - MatarvÃ¤g"/>
+          <rule filter="KKOD = 5071" key="{aead5d62-fd00-4d22-8b89-dd1e48579758}" symbol="19" label="Enskild bilvÃ¤g"/>
+          <rule filter="KKOD = 5082" key="{9b57c101-1cd6-4f29-923d-bd697217ba18}" symbol="20" label="Enskild sÃ¤mre bilvÃ¤g"/>
+          <rule filter="KKOD = 5091" key="{28e275dd-5eac-4ea4-b1b1-eaa63b3604b2}" symbol="21" label="Enskild uppfartsvÃ¤g"/>
+          <rule filter="KKOD = 5811" key="{e77f1da4-8f9e-472a-bd5e-6ffb9676bafa}" symbol="22" label="MotorvÃ¤g, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5812" key="{0317d2aa-cf7d-45d7-9ac5-1c00d69b51d9}" symbol="23" label="Motortrafikled, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5816" key="{64155a5b-bf88-4cd2-83c5-fcd538355f67}" symbol="24" label="MotorvÃ¤g, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5817" key="{2083ed9f-21e1-4ae3-b968-18f9fb2d8921}" symbol="25" label="Motortrafikled, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5821" key="{bc7de114-2247-4420-8a4e-1c1184237aab}" symbol="26" label="AllmÃ¤n vÃ¤g > 7m, klass 1, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5822" key="{2877ab2a-061e-4717-ad49-58d88a020ab1}" symbol="27" label="AllmÃ¤n vÃ¤g > 7m, klass 1, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5824" key="{5d9ce21e-e192-4598-b121-bdd3ca7ab544}" symbol="28" label="AllmÃ¤n vÃ¤g 5-7m, klass 2, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5825" key="{348e7c7e-7c50-4d1f-a5d2-306f7bc88545}" symbol="29" label="AllmÃ¤n vÃ¤g 5-7m, klass 2, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5828" key="{8b55ab8c-0873-473b-8b74-15bb9d6f4e72}" symbol="30" label="AllmÃ¤n vÃ¤g &lt; 5m, klass 3, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5829" key="{52ca7024-4c8a-4d85-b8d1-d35064a7ab42}" symbol="31" label="AllmÃ¤n vÃ¤g &lt; 5m, klass 3, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5833" key="{6bf1d7cc-835d-4a5e-81fa-f81812b4c005}" symbol="32" label="PÃ¥- och AvfartsvÃ¤g, ej riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5836" key="{b84f8614-7268-4233-b671-9ddb2d83d40e}" symbol="33" label="PÃ¥- och AvfartsvÃ¤g, riksvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5840" key="{c39dd2ac-53e1-45d1-a8c8-6fea7dc567cc}" symbol="34" label="Gata, underfart/tunnel"/>
+          <rule filter="KKOD = 5845" key="{0f2bc4b5-1fad-40e3-a54d-b91f62085ea5}" symbol="35" label="Gata stÃ¶rre - FÃ¶rbindelseled, underfart/tunnel"/>
+          <rule filter="KKOD = 5860" key="{a99984f2-9702-4816-895a-09e5228509e8}" symbol="36" label="Enskild bÃ¤ttre bilvÃ¤g - MatarvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5861" key="{44755119-215d-4c7c-8d3d-228cfadad313}" symbol="37" label="Enskild bÃ¤ttre bilvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5870" key="{84f9ed29-77f2-4f4b-9f51-ce28a17ae908}" symbol="38" label="Enskild bilvÃ¤g/gata, stÃ¶rre - MatarvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5871" key="{6e9e5eea-d425-432d-bbb3-b70beb9825a9}" symbol="39" label="Enskild bilvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5882" key="{d52dcbe6-f189-420d-8d1b-0b9308199d8f}" symbol="40" label="Enskild sÃ¤mre bilvÃ¤g, underfart/tunnel"/>
+          <rule filter="KKOD = 5891" key="{4398ac7e-f4ed-48e3-8a5c-067cedb1a26e}" symbol="41" label="Enskild uppfartsvÃ¤g, underfart/tunnel"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="line" name="0">
@@ -7420,7 +7003,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3.4"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7437,7 +7020,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="255,251,134,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2.6"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7454,7 +7037,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.8"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7464,7 +7047,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="1">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7473,7 +7056,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="4"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7490,7 +7073,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7507,7 +7090,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7526,7 +7109,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7543,7 +7126,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7560,7 +7143,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7579,7 +7162,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,84,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7596,7 +7179,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7613,7 +7196,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7623,7 +7206,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="12">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7632,7 +7215,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7649,7 +7232,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7666,7 +7249,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7676,7 +7259,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="13">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7685,7 +7268,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7702,7 +7285,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7719,7 +7302,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7738,7 +7321,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7757,7 +7340,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7767,7 +7350,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="16">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7776,7 +7359,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7793,7 +7376,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7810,7 +7393,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7820,7 +7403,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="17">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7829,7 +7412,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7846,7 +7429,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7863,7 +7446,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7882,7 +7465,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7901,7 +7484,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7911,7 +7494,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="2">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -7920,7 +7503,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7939,7 +7522,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7958,7 +7541,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7977,7 +7560,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -7996,7 +7579,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8015,7 +7598,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8028,16 +7611,16 @@ def my_form_open(dialog, layer, feature):
               <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="5;5;5;5"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="customdash_unit" v="Pixel"/>
+              <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="round"/>
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="Pixel"/>
+              <prop k="offset_unit" v="MM"/>
               <prop k="use_custom_dash" v="1"/>
               <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
             </layer>
@@ -8053,7 +7636,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8072,7 +7655,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8091,7 +7674,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8110,7 +7693,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8120,7 +7703,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="3">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8129,7 +7712,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="4"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8146,7 +7729,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="MapUnit"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8163,7 +7746,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8182,7 +7765,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8201,7 +7784,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8220,7 +7803,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8239,7 +7822,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8258,7 +7841,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8277,7 +7860,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8296,7 +7879,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8315,7 +7898,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8334,7 +7917,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8353,7 +7936,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8363,7 +7946,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="4">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8372,7 +7955,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,172,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8389,7 +7972,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8406,7 +7989,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8425,7 +8008,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8444,7 +8027,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8454,7 +8037,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="5">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8463,7 +8046,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8473,7 +8056,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="6">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8482,7 +8065,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8499,7 +8082,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8516,7 +8099,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8526,7 +8109,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="7">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8535,7 +8118,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,89,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8552,7 +8135,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8569,7 +8152,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8579,7 +8162,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="8">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8588,7 +8171,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,101,209,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8605,7 +8188,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8622,7 +8205,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8632,7 +8215,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="9">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="round"/>
+              <prop k="capstyle" v="square"/>
               <prop k="customdash" v="0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -8641,7 +8224,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="254,84,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8658,7 +8241,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -8675,7 +8258,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9022,19 +8605,19 @@ def my_form_open(dialog, layer, feature):
         </edittype>
       </edittypes>
       <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
-        <rules key="{256fbbd0-f7e7-4f03-9ffc-6e3592c38b5a}">
-          <rule filter="KKOD = 21" key="{2738e956-99c9-4024-8c6c-f63e2d6d54a2}" symbol="0" label="RiksgrÃƒÂ¤ns"/>
-          <rule filter="KKOD = 22" key="{0a7813f1-79ab-450c-a816-efd673b7083d}" symbol="1" label="TerritorialgrÃƒÂ¤ns"/>
-          <rule filter="KKOD = 23" key="{3fccaa36-4a44-474a-8838-246101e9f1a4}" symbol="2" label="LÃƒÂ¤nsgrÃƒÂ¤ns"/>
-          <rule filter="KKOD = 24" key="{ea102e1e-4cc5-47cd-8867-ad0dbc2a5339}" symbol="3" label="KommungrÃƒÂ¤ns"/>
-          <rule filter="KKOD = 33" key="{8211774e-28c2-43bf-9d94-66be378650c3}" symbol="4" label="TraktgrÃƒÂ¤ns"/>
-          <rule filter="KKOD = 480" key="{2009f2a6-d5f5-45f6-9cfa-5c564a4f5c47}" symbol="5" label="OdlingsgrÃƒÂ¤ns, sammanfallande"/>
-          <rule filter="KKOD = 481" key="{91dff347-692c-49b0-861a-0725767e4f08}" symbol="6" label="OdlingsgrÃƒÂ¤ns"/>
+        <rules key="{6e22429b-ebc7-49ec-b340-085edd23b773}">
+          <rule filter="KKOD = 21" key="{f7508927-519a-4eb3-aa69-acff5c7208cd}" symbol="0" label="RiksgrÃ¤ns"/>
+          <rule filter="KKOD = 22" key="{33d046dc-2f90-43a8-aa39-31b34756a165}" symbol="1" label="TerritorialgrÃ¤ns"/>
+          <rule filter="KKOD = 23" key="{495a13fb-3dab-4ace-bcd5-296ccc9a4a67}" symbol="2" label="LÃ¤nsgrÃ¤ns"/>
+          <rule filter="KKOD = 24" key="{cba299cc-5f3b-4866-8735-2988217bff7d}" symbol="3" label="KommungrÃ¤ns"/>
+          <rule filter="KKOD = 33" key="{8e5ca4a0-94a2-441c-ab35-fa814abdddd0}" symbol="4" label="TraktgrÃ¤ns"/>
+          <rule filter="KKOD = 480" key="{fb4a28a2-5698-4cff-b1f5-6c064a2a4130}" symbol="5" label="OdlingsgrÃ¤ns, sammanfallande"/>
+          <rule filter="KKOD = 481" key="{ce953a3f-ef90-4705-b71b-893968d0239c}" symbol="6" label="OdlingsgrÃ¤ns"/>
         </rules>
         <symbols>
           <symbol alpha="1" clip_to_extent="1" type="line" name="0">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="16;12"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9043,7 +8626,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3.99996"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9053,7 +8636,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="1">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="16;12"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9062,7 +8645,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="3"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9072,7 +8655,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="2">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="0;3;3;3;3;3;9;0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9081,7 +8664,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="2"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9091,7 +8674,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="3">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="0;1;1;1;1;1;3;0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9100,7 +8683,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="1"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9110,7 +8693,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="4">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="0;1;1;1;3;0"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9119,7 +8702,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9129,7 +8712,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="5">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="8;8;8;8"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9138,7 +8721,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9148,7 +8731,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
           <symbol alpha="1" clip_to_extent="1" type="line" name="6">
             <layer pass="0" class="SimpleLine" locked="0">
-              <prop k="capstyle" v="square"/>
+              <prop k="capstyle" v="flat"/>
               <prop k="customdash" v="8;8;8;8"/>
               <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="customdash_unit" v="MM"/>
@@ -9157,7 +8740,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="line_color" v="0,0,0,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.5"/>
-              <prop k="line_width_unit" v="Pixel"/>
+              <prop k="line_width_unit" v="MM"/>
               <prop k="offset" v="0"/>
               <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
               <prop k="offset_unit" v="MM"/>
@@ -9467,12 +9050,10 @@ def my_form_open(dialog, layer, feature):
         <value>LST_Riksintresse_Rorligt_friluftsliv__4220170310100306241</value>
         <value>RAA_Riksintresse_Kulturmiljovard20170313135836866</value>
         <value>Riksintresse_Naturvard__MB_3620170310100314512</value>
-        <value>Text__punkter20170310100318608</value>
         <value>Vagar20170310100322048</value>
-        <value>min_bestallning20170314094847213</value>
+        <value>al_riks20170324143323804</value>
       </LayerSnappingList>
       <LayerSnappingEnabledList type="QStringList">
-        <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
         <value>disabled</value>
@@ -9503,10 +9084,8 @@ def my_form_open(dialog, layer, feature):
         <value>2</value>
         <value>2</value>
         <value>2</value>
-        <value>2</value>
       </LayerSnappingToleranceUnitList>
       <LayerSnapToList type="QStringList">
-        <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
         <value>to_vertex_and_segment</value>
@@ -9524,7 +9103,6 @@ def my_form_open(dialog, layer, feature):
       <DefaultSnapType type="QString">off</DefaultSnapType>
       <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
       <LayerSnappingToleranceList type="QStringList">
-        <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
         <value>0.000000</value>
